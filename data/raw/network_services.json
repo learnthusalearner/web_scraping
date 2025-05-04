@@ -1,0 +1,3775 @@
+[
+    {
+        "url": "https://iitk.ac.in/ccn/services/network/how-to-use-ssl-vpn",
+        "title": "SSL-VPN",
+        "headings": [
+            {
+                "Heading": "h3",
+                "text": "How to use SSL-VPN ?"
+            },
+            {
+                "Heading": "h6",
+                "text": "Connect to IITK through VPN Tunnel on different clients"
+            }
+        ],
+        "paragraphs": [
+            "Computer Centre, IIT Kanpur",
+            "Indian Institute of Technology Kanpur",
+            "Copyright © 2020 : IIT Kanpur",
+            "Developed and Maintained By : Prajwal Bajpai (Computer Engineer)"
+        ],
+        "links": [
+            {
+                "text": "Search Result",
+                "href": "/ccn/search-result"
+            },
+            {
+                "text": "xming",
+                "href": "/ccn/xming"
+            },
+            {
+                "text": "putty",
+                "href": "/ccn/putty"
+            },
+            {
+                "text": "Microsoft Outlook",
+                "href": "/ccn/microsoft-outlook"
+            },
+            {
+                "text": "Pine",
+                "href": "/ccn/pine"
+            },
+            {
+                "text": "Mozilla Thunderbird",
+                "href": "/ccn/mozilla-thunderbird"
+            },
+            {
+                "text": "Outlook Express",
+                "href": "/ccn/outlook-express"
+            },
+            {
+                "text": "DHCP",
+                "href": "/ccn/dhcp"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/ssl-vpn"
+            },
+            {
+                "text": "How to use SSL-VPN ?",
+                "href": "/ccn/how-to-use-ssl-vpn"
+            },
+            {
+                "text": "PRECISION AIR CONDITIONING (PAC) SYSTEM",
+                "href": "/ccn/precision-air-conditioning-pac-system"
+            },
+            {
+                "text": "FIRE SAFETY, ACCESS CONTROL, BUILDING MANAGEMENT SYSTEM (BMS) AND OTHER RELATED SYSTEMS",
+                "href": "/ccn/fire-safety-access-control-building-management-system-bms-and-other-related-systems"
+            },
+            {
+                "text": "For Windows Client",
+                "href": "/ccn/for-windows-client"
+            },
+            {
+                "text": "Executive / Advisory Committee Members",
+                "href": "/ccn/executive-advisory-committee-members"
+            },
+            {
+                "text": "What SSL VPN Provides?",
+                "href": "/ccn/what-ssl-vpn-provides"
+            },
+            {
+                "text": "Gtalk",
+                "href": "/ccn/gtalk"
+            },
+            {
+                "text": "Skype",
+                "href": "/ccn/skype"
+            },
+            {
+                "text": "Hosting Home Page",
+                "href": "/ccn/hosting-home-page"
+            },
+            {
+                "text": "Using Putty",
+                "href": "/ccn/using-putty"
+            },
+            {
+                "text": "Using WinSCP",
+                "href": "/ccn/using-winscp"
+            },
+            {
+                "text": "For Linux Client",
+                "href": "/ccn/for-linux-client"
+            },
+            {
+                "text": "For MAC Client",
+                "href": "/ccn/for-mac-client"
+            },
+            {
+                "text": "For Android Client",
+                "href": "/ccn/for-android-client"
+            },
+            {
+                "text": "Wireless Access Points",
+                "href": "#"
+            },
+            {
+                "text": "ACES",
+                "href": "/ccn/aces"
+            },
+            {
+                "text": "ACMS",
+                "href": "/ccn/acms"
+            },
+            {
+                "text": "AE",
+                "href": "/ccn/ae"
+            },
+            {
+                "text": "BSBE",
+                "href": "/ccn/bsbe"
+            },
+            {
+                "text": "CL",
+                "href": "/ccn/cl"
+            },
+            {
+                "text": "ENVIORNMENTAL",
+                "href": "/ccn/enviornmental"
+            },
+            {
+                "text": "HELICOPTER",
+                "href": "/ccn/helicopter"
+            },
+            {
+                "text": "LHC",
+                "href": "/ccn/lhc"
+            },
+            {
+                "text": "LIBRARY",
+                "href": "/ccn/library"
+            },
+            {
+                "text": "ME(NL1)",
+                "href": "/ccn/me-nl1"
+            },
+            {
+                "text": "NEW CL",
+                "href": "/ccn/new-cl"
+            },
+            {
+                "text": "NEW IME",
+                "href": "/ccn/new-ime"
+            },
+            {
+                "text": "NL2",
+                "href": "/ccn/nl2"
+            },
+            {
+                "text": "NUCLEAR",
+                "href": "/ccn/nuclear"
+            },
+            {
+                "text": "NWTF",
+                "href": "/ccn/nwtf"
+            },
+            {
+                "text": "SAMTEL",
+                "href": "/ccn/samtel"
+            },
+            {
+                "text": "SIDBI",
+                "href": "/ccn/sidbi"
+            },
+            {
+                "text": "SL",
+                "href": "/ccn/sl"
+            },
+            {
+                "text": "TUT",
+                "href": "/ccn/tut"
+            },
+            {
+                "text": "VFA",
+                "href": "/ccn/vfa"
+            },
+            {
+                "text": "VH",
+                "href": "/ccn/vh"
+            },
+            {
+                "text": "WL",
+                "href": "/ccn/wl"
+            },
+            {
+                "text": "WLE",
+                "href": "/ccn/wle"
+            },
+            {
+                "text": "WLAN",
+                "href": "/ccn/wlan"
+            },
+            {
+                "text": "Fiber Layout",
+                "href": "/ccn/fiber-layout"
+            },
+            {
+                "text": "Category",
+                "href": "/ccn/category"
+            },
+            {
+                "text": "Closed Tenders",
+                "href": "/ccn/closed-tenders"
+            },
+            {
+                "text": "Latest News",
+                "href": "/ccn/latest-news"
+            },
+            {
+                "text": "Events",
+                "href": "/ccn/events"
+            },
+            {
+                "text": "Academic Staff",
+                "href": "/ccn/academic-staff"
+            },
+            {
+                "text": "REO's",
+                "href": "/ccn/reo-s"
+            },
+            {
+                "text": "Technical Staff",
+                "href": "/ccn/technical-staff"
+            },
+            {
+                "text": "DDIA",
+                "href": "/ccn/ddia"
+            },
+            {
+                "text": "Office",
+                "href": "/ccn/office"
+            },
+            {
+                "text": "accelrys",
+                "href": "/ccn/accelrys"
+            },
+            {
+                "text": "team",
+                "href": "/ccn/22-team"
+            },
+            {
+                "text": "Labs",
+                "href": "/ccn/10-labs"
+            },
+            {
+                "text": "FAQ",
+                "href": "/ccn/11-faq"
+            },
+            {
+                "text": "Other Links",
+                "href": "/ccn/2-uncategorised"
+            },
+            {
+                "text": "Services",
+                "href": "/ccn/12-services"
+            },
+            {
+                "text": "CCCC",
+                "href": "/ccn/16-cccc"
+            },
+            {
+                "text": "Servers",
+                "href": "/ccn/17-servers"
+            },
+            {
+                "text": "Data Centre",
+                "href": "/ccn/18-data-centre"
+            },
+            {
+                "text": "Main Menu",
+                "href": "/ccn/19-main-menu"
+            },
+            {
+                "text": "Microsoft Account FAQ",
+                "href": "/ccn/microsoft-account-faq"
+            },
+            {
+                "text": "Facility Management Services",
+                "href": "/ccn/facility-management-services"
+            },
+            {
+                "text": "Online training session on Microsoft Excel and Word",
+                "href": "/ccn/online-training-session-on-microsoft-excel-and-word"
+            },
+            {
+                "text": "Cyber Security Advisory",
+                "href": "/ccn/cyber-security-advisory"
+            },
+            {
+                "text": "IEEE Learning Network",
+                "href": "/ccn/ieee-learning-network"
+            },
+            {
+                "text": "How to Change Passwords",
+                "href": "/ccn/how-to-change-passwords"
+            },
+            {
+                "text": "Turnitin",
+                "href": "/ccn/turnitin"
+            },
+            {
+                "text": "IDIAC",
+                "href": "/ccn/idiac"
+            },
+            {
+                "text": "List of Software",
+                "href": "/ccn/list-of-software"
+            },
+            {
+                "text": "CC Home",
+                "href": "/ccn/"
+            },
+            {
+                "text": "Policies",
+                "href": "/ccn/policies"
+            },
+            {
+                "text": "Computing Facilities - Unethical Use",
+                "href": "/ccn/policies/computing-facilities-unethical-use"
+            },
+            {
+                "text": "CC Facilities Charges",
+                "href": "/ccn/policies/cc-facilities-charges"
+            },
+            {
+                "text": "CC Accounts Deletion",
+                "href": "/ccn/policies/cc-accounts-deletion"
+            },
+            {
+                "text": "Services",
+                "href": "/ccn/services"
+            },
+            {
+                "text": "Email",
+                "href": "#"
+            },
+            {
+                "text": "Login",
+                "href": "/ccn/services/email/login"
+            },
+            {
+                "text": "Email",
+                "href": "/ccn/services/email/email"
+            },
+            {
+                "text": "Backup & Recovery",
+                "href": "/ccn/services/email/backup-recovery"
+            },
+            {
+                "text": "Voice Chat",
+                "href": "/ccn/services/email/voice-chat"
+            },
+            {
+                "text": "Web",
+                "href": "/ccn/services/web"
+            },
+            {
+                "text": "Login",
+                "href": "/ccn/services/web/login"
+            },
+            {
+                "text": "Space Quota",
+                "href": "/ccn/services/web/space-quota"
+            },
+            {
+                "text": "Hosting Home Page",
+                "href": "/ccn/services/web/hosting-home-page"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/services/web/ssl-vpn"
+            },
+            {
+                "text": "Web Access",
+                "href": "/ccn/services/web/web-access"
+            },
+            {
+                "text": "Network",
+                "href": "/ccn/services/network"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/services/network/how-to-use-ssl-vpn"
+            },
+            {
+                "text": "Direct (No Proxy) Internet",
+                "href": "/ccn/services/network/direct-no-proxy-internet"
+            },
+            {
+                "text": "Network FAQ",
+                "href": "/ccn/services/network/network-faq"
+            },
+            {
+                "text": "Network Diagrams",
+                "href": "/ccn/services/network/network-diagrams"
+            },
+            {
+                "text": "Internet Links at a Glance",
+                "href": "/ccn/services/network/internet-links-at-a-glance"
+            },
+            {
+                "text": "Guest Wi-Fi Access @IITK",
+                "href": "/ccn/services/network/guest-wi-fi-access-iitk"
+            },
+            {
+                "text": "Single Sign-On Wi-Fi",
+                "href": "/ccn/images\\Network\\Wifi_with_single_signon.pdf"
+            },
+            {
+                "text": "eduroam",
+                "href": "/ccn/images\\Network\\eduroam.pdf"
+            },
+            {
+                "text": "Cisco WebEx",
+                "href": "/ccn/services/network/cisco-webex"
+            },
+            {
+                "text": "Purchasing LAN Cord",
+                "href": "/ccn/images\\Network\\Purchasing_LAN_Cord_from_CC.pdf"
+            },
+            {
+                "text": "LAN Port Request Form",
+                "href": "/ccn/images\\Login_Forms\\Internet_port_requistion_form.pdf"
+            },
+            {
+                "text": "WLAN",
+                "href": "/ccn/services/network/wlan"
+            },
+            {
+                "text": "DHCP",
+                "href": "/ccn/services/network/dhcp"
+            },
+            {
+                "text": "Linux Setup",
+                "href": "/ccn/services/network/linux-setup"
+            },
+            {
+                "text": "IP Addresses",
+                "href": "#"
+            },
+            {
+                "text": "Building-wise IP Address",
+                "href": "/ccn/IP_Details/Building_IP_Details.html"
+            },
+            {
+                "text": "Hostel IP Address",
+                "href": "/ccn/IP_Details/Hostel_IP_Address.html"
+            },
+            {
+                "text": "Residence IP Address",
+                "href": "/ccn/IP_Details/Residence_IP_Address.html"
+            },
+            {
+                "text": "Labs",
+                "href": "/ccn/services/labs"
+            },
+            {
+                "text": "Windows Lab",
+                "href": "#"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/services/labs/windows-lab/software"
+            },
+            {
+                "text": "Tips and Trick",
+                "href": "/ccn/services/labs/windows-lab/tips-and-trick"
+            },
+            {
+                "text": "Linux Lab",
+                "href": "#"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/services/labs/linux-software/linux-software"
+            },
+            {
+                "text": "Use Application Remotely",
+                "href": "/ccn/services/labs/linux-software/use-application-remotely"
+            },
+            {
+                "text": "FMS",
+                "href": "/ccn/facility-management-services"
+            },
+            {
+                "text": "HPC",
+                "href": "https://iitk.ac.in/hpc/"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/softwares"
+            },
+            {
+                "text": "Data Centre",
+                "href": "/ccn/data-centre"
+            },
+            {
+                "text": "FAQ",
+                "href": "#"
+            },
+            {
+                "text": "General FAQ",
+                "href": "/ccn/faq/general-faq"
+            },
+            {
+                "text": "Voice Chat FAQ",
+                "href": "/ccn/faq/voice-chat-faq"
+            },
+            {
+                "text": "Website FAQ",
+                "href": "/ccn/faq/website-faq"
+            },
+            {
+                "text": "Windows FAQ",
+                "href": "/ccn/faq/windows-faq"
+            },
+            {
+                "text": "Linux FAQ",
+                "href": "https://linux.cc.iitk.ac.in/lininfo/Linux_Servers_computing_fac.html"
+            },
+            {
+                "text": "Network FAQ",
+                "href": "/ccn/faq/network-faq"
+            },
+            {
+                "text": "Mail FAQ",
+                "href": "https://linux.cc.iitk.ac.in/lininfo/IITK_mailing_system_informa.html"
+            },
+            {
+                "text": "Mac FAQ",
+                "href": "/ccn/faq/mac-faq"
+            },
+            {
+                "text": "Gallery",
+                "href": "/ccn/gallery"
+            },
+            {
+                "text": "Tenders",
+                "href": "/ccn/tenders"
+            },
+            {
+                "text": "Committees",
+                "href": "#"
+            },
+            {
+                "text": "IDIAC",
+                "href": "/ccn/idiac"
+            },
+            {
+                "text": "Contact Us",
+                "href": "/ccn/contact-iitk"
+            },
+            {
+                "text": "",
+                "href": "/ccn/"
+            },
+            {
+                "text": "Computer Centre, IIT Kanpur",
+                "href": "/ccn/"
+            },
+            {
+                "text": "IITKanpur",
+                "href": "/ccn/"
+            },
+            {
+                "text": "IITK Home",
+                "href": "http://www.iitk.ac.in/"
+            },
+            {
+                "text": "Webmail",
+                "href": "https://webmail.iitk.ac.in/"
+            },
+            {
+                "text": "Library",
+                "href": "https://pkklib.iitk.ac.in/"
+            },
+            {
+                "text": "Telephone Directory",
+                "href": "https://oag.iitk.ac.in/Tel/"
+            },
+            {
+                "text": "Team",
+                "href": "#"
+            },
+            {
+                "text": "Dean",
+                "href": "https://iitk.ac.in/ddia/"
+            },
+            {
+                "text": "Operations",
+                "href": "#"
+            },
+            {
+                "text": "Academic Staff",
+                "href": "https://www.iitk.ac.in/cc/academic-staff"
+            },
+            {
+                "text": "REO's",
+                "href": "https://www.iitk.ac.in/cc/reo-s"
+            },
+            {
+                "text": "Technical Staff",
+                "href": "https://www.iitk.ac.in/cc/technical-staff"
+            },
+            {
+                "text": "Office",
+                "href": "https://www.iitk.ac.in/cc/office"
+            },
+            {
+                "text": "Information",
+                "href": "#"
+            },
+            {
+                "text": "Office 365 subscription at IITK",
+                "href": "http://iitk.ac.in/nt/Office365//Office_365_subscription_at_IITK.htm"
+            },
+            {
+                "text": "MS Teams for faculty and staff",
+                "href": "https://iitk.ac.in/nt/faq/MS_Teams.htm"
+            },
+            {
+                "text": "Turnitin (Intranet Only)",
+                "href": "https://web.iitk.ac.in/ccnew/Turnitin.html"
+            },
+            {
+                "text": "Matlab Campus Wide License at IIT Kanpur",
+                "href": "/ccn/information/matlab-campus-wide-license-at-iit-kanpur"
+            },
+            {
+                "text": "IIT Kanpur’s Matlab Portal",
+                "href": "https://in.mathworks.com/academia/tah-portal/indian-institute-of-technology-kanpur-40765629.html"
+            },
+            {
+                "text": "Cyber Security Advisory",
+                "href": "cyber-security-advisory"
+            },
+            {
+                "text": "Quick Links",
+                "href": "#"
+            },
+            {
+                "text": "Login-Forms",
+                "href": "/ccn/quick-links/login-forms"
+            },
+            {
+                "text": "Change Password",
+                "href": "/ccn/quick-links/change-password"
+            },
+            {
+                "text": "Lost & Found",
+                "href": "https://narad.iitk.ac.in/indexing.php?server=narad.iitk.ac.in&group=IITK.lost-found&magic=181"
+            },
+            {
+                "text": "Seminar / Thesis Defense Announcements",
+                "href": "https://narad.iitk.ac.in/indexing.php?server=narad.iitk.ac.in&group=IITK.seminar&magic=12"
+            },
+            {
+                "text": "Open Source Resource",
+                "href": "http://linux.cc.iitk.ac.in"
+            },
+            {
+                "text": "Linux Documentation Project",
+                "href": "http://www.iitk.ac.in/LDP/"
+            },
+            {
+                "text": "Click Here",
+                "href": "https://www.fortinet.com/support/product-downloads"
+            },
+            {
+                "text": "Click Here",
+                "href": "/ccn/index.php/for-windows-client"
+            },
+            {
+                "text": "Click Here",
+                "href": "/ccn/index.php/for-linux-client"
+            },
+            {
+                "text": "Click Here",
+                "href": "/ccn/index.php/for-mac-client"
+            },
+            {
+                "text": "Click Here",
+                "href": "/ccn/index.php/for-android-client"
+            },
+            {
+                "text": "",
+                "href": "#top"
+            },
+            {
+                "text": "IITK Home",
+                "href": "/ccn/../"
+            },
+            {
+                "text": "Library",
+                "href": "https://pkklib.iitk.ac.in/"
+            },
+            {
+                "text": "Office Location",
+                "href": "/ccn/index.php/contact-iitk"
+            },
+            {
+                "text": "",
+                "href": "https://www.facebook.com/iitkanpur"
+            },
+            {
+                "text": "",
+                "href": "https://twitter.com/IITKanpur"
+            },
+            {
+                "text": "",
+                "href": "https://www.linkedin.com/school/indian-institute-of-technology-kanpur/"
+            },
+            {
+                "text": "",
+                "href": "https://www.instagram.com/iit.kanpur/"
+            }
+        ]
+    },
+    {
+        "url": "https://iitk.ac.in/ccn/services/network/direct-no-proxy-internet",
+        "title": "Direct (No Proxy) Internet",
+        "headings": [
+            {
+                "Heading": "h3",
+                "text": "How to use Direct Internet Access (No Proxy)?"
+            }
+        ],
+        "paragraphs": [
+            "Computer Centre, IIT Kanpur",
+            "Indian Institute of Technology Kanpur",
+            "You can use either Fortigate or Cisco Ironport Gateway for Direct Internet Access (No Proxy).",
+            "Please get theIP Address marked either for the Fortigate or for the Ironport Gatewayfor your Hostel's Room No. / Residence No. and configure this IP in your machine.",
+            "For getting your residential IP address, visit below links :",
+            "Then, you can follow the either of the procedure for configuring Direct Internet Access (No Proxy):",
+            "Copyright © 2020 : IIT Kanpur",
+            "Developed and Maintained By : Prajwal Bajpai (Computer Engineer)"
+        ],
+        "links": [
+            {
+                "text": "Search Result",
+                "href": "/ccn/search-result"
+            },
+            {
+                "text": "xming",
+                "href": "/ccn/xming"
+            },
+            {
+                "text": "putty",
+                "href": "/ccn/putty"
+            },
+            {
+                "text": "Microsoft Outlook",
+                "href": "/ccn/microsoft-outlook"
+            },
+            {
+                "text": "Pine",
+                "href": "/ccn/pine"
+            },
+            {
+                "text": "Mozilla Thunderbird",
+                "href": "/ccn/mozilla-thunderbird"
+            },
+            {
+                "text": "Outlook Express",
+                "href": "/ccn/outlook-express"
+            },
+            {
+                "text": "DHCP",
+                "href": "/ccn/dhcp"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/ssl-vpn"
+            },
+            {
+                "text": "How to use SSL-VPN ?",
+                "href": "/ccn/how-to-use-ssl-vpn"
+            },
+            {
+                "text": "PRECISION AIR CONDITIONING (PAC) SYSTEM",
+                "href": "/ccn/precision-air-conditioning-pac-system"
+            },
+            {
+                "text": "FIRE SAFETY, ACCESS CONTROL, BUILDING MANAGEMENT SYSTEM (BMS) AND OTHER RELATED SYSTEMS",
+                "href": "/ccn/fire-safety-access-control-building-management-system-bms-and-other-related-systems"
+            },
+            {
+                "text": "For Windows Client",
+                "href": "/ccn/for-windows-client"
+            },
+            {
+                "text": "Executive / Advisory Committee Members",
+                "href": "/ccn/executive-advisory-committee-members"
+            },
+            {
+                "text": "What SSL VPN Provides?",
+                "href": "/ccn/what-ssl-vpn-provides"
+            },
+            {
+                "text": "Gtalk",
+                "href": "/ccn/gtalk"
+            },
+            {
+                "text": "Skype",
+                "href": "/ccn/skype"
+            },
+            {
+                "text": "Hosting Home Page",
+                "href": "/ccn/hosting-home-page"
+            },
+            {
+                "text": "Using Putty",
+                "href": "/ccn/using-putty"
+            },
+            {
+                "text": "Using WinSCP",
+                "href": "/ccn/using-winscp"
+            },
+            {
+                "text": "For Linux Client",
+                "href": "/ccn/for-linux-client"
+            },
+            {
+                "text": "For MAC Client",
+                "href": "/ccn/for-mac-client"
+            },
+            {
+                "text": "For Android Client",
+                "href": "/ccn/for-android-client"
+            },
+            {
+                "text": "Wireless Access Points",
+                "href": "#"
+            },
+            {
+                "text": "ACES",
+                "href": "/ccn/aces"
+            },
+            {
+                "text": "ACMS",
+                "href": "/ccn/acms"
+            },
+            {
+                "text": "AE",
+                "href": "/ccn/ae"
+            },
+            {
+                "text": "BSBE",
+                "href": "/ccn/bsbe"
+            },
+            {
+                "text": "CL",
+                "href": "/ccn/cl"
+            },
+            {
+                "text": "ENVIORNMENTAL",
+                "href": "/ccn/enviornmental"
+            },
+            {
+                "text": "HELICOPTER",
+                "href": "/ccn/helicopter"
+            },
+            {
+                "text": "LHC",
+                "href": "/ccn/lhc"
+            },
+            {
+                "text": "LIBRARY",
+                "href": "/ccn/library"
+            },
+            {
+                "text": "ME(NL1)",
+                "href": "/ccn/me-nl1"
+            },
+            {
+                "text": "NEW CL",
+                "href": "/ccn/new-cl"
+            },
+            {
+                "text": "NEW IME",
+                "href": "/ccn/new-ime"
+            },
+            {
+                "text": "NL2",
+                "href": "/ccn/nl2"
+            },
+            {
+                "text": "NUCLEAR",
+                "href": "/ccn/nuclear"
+            },
+            {
+                "text": "NWTF",
+                "href": "/ccn/nwtf"
+            },
+            {
+                "text": "SAMTEL",
+                "href": "/ccn/samtel"
+            },
+            {
+                "text": "SIDBI",
+                "href": "/ccn/sidbi"
+            },
+            {
+                "text": "SL",
+                "href": "/ccn/sl"
+            },
+            {
+                "text": "TUT",
+                "href": "/ccn/tut"
+            },
+            {
+                "text": "VFA",
+                "href": "/ccn/vfa"
+            },
+            {
+                "text": "VH",
+                "href": "/ccn/vh"
+            },
+            {
+                "text": "WL",
+                "href": "/ccn/wl"
+            },
+            {
+                "text": "WLE",
+                "href": "/ccn/wle"
+            },
+            {
+                "text": "WLAN",
+                "href": "/ccn/wlan"
+            },
+            {
+                "text": "Fiber Layout",
+                "href": "/ccn/fiber-layout"
+            },
+            {
+                "text": "Category",
+                "href": "/ccn/category"
+            },
+            {
+                "text": "Closed Tenders",
+                "href": "/ccn/closed-tenders"
+            },
+            {
+                "text": "Latest News",
+                "href": "/ccn/latest-news"
+            },
+            {
+                "text": "Events",
+                "href": "/ccn/events"
+            },
+            {
+                "text": "Academic Staff",
+                "href": "/ccn/academic-staff"
+            },
+            {
+                "text": "REO's",
+                "href": "/ccn/reo-s"
+            },
+            {
+                "text": "Technical Staff",
+                "href": "/ccn/technical-staff"
+            },
+            {
+                "text": "DDIA",
+                "href": "/ccn/ddia"
+            },
+            {
+                "text": "Office",
+                "href": "/ccn/office"
+            },
+            {
+                "text": "accelrys",
+                "href": "/ccn/accelrys"
+            },
+            {
+                "text": "team",
+                "href": "/ccn/22-team"
+            },
+            {
+                "text": "Labs",
+                "href": "/ccn/10-labs"
+            },
+            {
+                "text": "FAQ",
+                "href": "/ccn/11-faq"
+            },
+            {
+                "text": "Other Links",
+                "href": "/ccn/2-uncategorised"
+            },
+            {
+                "text": "Services",
+                "href": "/ccn/12-services"
+            },
+            {
+                "text": "CCCC",
+                "href": "/ccn/16-cccc"
+            },
+            {
+                "text": "Servers",
+                "href": "/ccn/17-servers"
+            },
+            {
+                "text": "Data Centre",
+                "href": "/ccn/18-data-centre"
+            },
+            {
+                "text": "Main Menu",
+                "href": "/ccn/19-main-menu"
+            },
+            {
+                "text": "Microsoft Account FAQ",
+                "href": "/ccn/microsoft-account-faq"
+            },
+            {
+                "text": "Facility Management Services",
+                "href": "/ccn/facility-management-services"
+            },
+            {
+                "text": "Online training session on Microsoft Excel and Word",
+                "href": "/ccn/online-training-session-on-microsoft-excel-and-word"
+            },
+            {
+                "text": "Cyber Security Advisory",
+                "href": "/ccn/cyber-security-advisory"
+            },
+            {
+                "text": "IEEE Learning Network",
+                "href": "/ccn/ieee-learning-network"
+            },
+            {
+                "text": "How to Change Passwords",
+                "href": "/ccn/how-to-change-passwords"
+            },
+            {
+                "text": "Turnitin",
+                "href": "/ccn/turnitin"
+            },
+            {
+                "text": "IDIAC",
+                "href": "/ccn/idiac"
+            },
+            {
+                "text": "List of Software",
+                "href": "/ccn/list-of-software"
+            },
+            {
+                "text": "CC Home",
+                "href": "/ccn/"
+            },
+            {
+                "text": "Policies",
+                "href": "/ccn/policies"
+            },
+            {
+                "text": "Computing Facilities - Unethical Use",
+                "href": "/ccn/policies/computing-facilities-unethical-use"
+            },
+            {
+                "text": "CC Facilities Charges",
+                "href": "/ccn/policies/cc-facilities-charges"
+            },
+            {
+                "text": "CC Accounts Deletion",
+                "href": "/ccn/policies/cc-accounts-deletion"
+            },
+            {
+                "text": "Services",
+                "href": "/ccn/services"
+            },
+            {
+                "text": "Email",
+                "href": "#"
+            },
+            {
+                "text": "Login",
+                "href": "/ccn/services/email/login"
+            },
+            {
+                "text": "Email",
+                "href": "/ccn/services/email/email"
+            },
+            {
+                "text": "Backup & Recovery",
+                "href": "/ccn/services/email/backup-recovery"
+            },
+            {
+                "text": "Voice Chat",
+                "href": "/ccn/services/email/voice-chat"
+            },
+            {
+                "text": "Web",
+                "href": "/ccn/services/web"
+            },
+            {
+                "text": "Login",
+                "href": "/ccn/services/web/login"
+            },
+            {
+                "text": "Space Quota",
+                "href": "/ccn/services/web/space-quota"
+            },
+            {
+                "text": "Hosting Home Page",
+                "href": "/ccn/services/web/hosting-home-page"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/services/web/ssl-vpn"
+            },
+            {
+                "text": "Web Access",
+                "href": "/ccn/services/web/web-access"
+            },
+            {
+                "text": "Network",
+                "href": "/ccn/services/network"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/services/network/how-to-use-ssl-vpn"
+            },
+            {
+                "text": "Direct (No Proxy) Internet",
+                "href": "/ccn/services/network/direct-no-proxy-internet"
+            },
+            {
+                "text": "Network FAQ",
+                "href": "/ccn/services/network/network-faq"
+            },
+            {
+                "text": "Network Diagrams",
+                "href": "/ccn/services/network/network-diagrams"
+            },
+            {
+                "text": "Internet Links at a Glance",
+                "href": "/ccn/services/network/internet-links-at-a-glance"
+            },
+            {
+                "text": "Guest Wi-Fi Access @IITK",
+                "href": "/ccn/services/network/guest-wi-fi-access-iitk"
+            },
+            {
+                "text": "Single Sign-On Wi-Fi",
+                "href": "/ccn/images\\Network\\Wifi_with_single_signon.pdf"
+            },
+            {
+                "text": "eduroam",
+                "href": "/ccn/images\\Network\\eduroam.pdf"
+            },
+            {
+                "text": "Cisco WebEx",
+                "href": "/ccn/services/network/cisco-webex"
+            },
+            {
+                "text": "Purchasing LAN Cord",
+                "href": "/ccn/images\\Network\\Purchasing_LAN_Cord_from_CC.pdf"
+            },
+            {
+                "text": "LAN Port Request Form",
+                "href": "/ccn/images\\Login_Forms\\Internet_port_requistion_form.pdf"
+            },
+            {
+                "text": "WLAN",
+                "href": "/ccn/services/network/wlan"
+            },
+            {
+                "text": "DHCP",
+                "href": "/ccn/services/network/dhcp"
+            },
+            {
+                "text": "Linux Setup",
+                "href": "/ccn/services/network/linux-setup"
+            },
+            {
+                "text": "IP Addresses",
+                "href": "#"
+            },
+            {
+                "text": "Building-wise IP Address",
+                "href": "/ccn/IP_Details/Building_IP_Details.html"
+            },
+            {
+                "text": "Hostel IP Address",
+                "href": "/ccn/IP_Details/Hostel_IP_Address.html"
+            },
+            {
+                "text": "Residence IP Address",
+                "href": "/ccn/IP_Details/Residence_IP_Address.html"
+            },
+            {
+                "text": "Labs",
+                "href": "/ccn/services/labs"
+            },
+            {
+                "text": "Windows Lab",
+                "href": "#"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/services/labs/windows-lab/software"
+            },
+            {
+                "text": "Tips and Trick",
+                "href": "/ccn/services/labs/windows-lab/tips-and-trick"
+            },
+            {
+                "text": "Linux Lab",
+                "href": "#"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/services/labs/linux-software/linux-software"
+            },
+            {
+                "text": "Use Application Remotely",
+                "href": "/ccn/services/labs/linux-software/use-application-remotely"
+            },
+            {
+                "text": "FMS",
+                "href": "/ccn/facility-management-services"
+            },
+            {
+                "text": "HPC",
+                "href": "https://iitk.ac.in/hpc/"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/softwares"
+            },
+            {
+                "text": "Data Centre",
+                "href": "/ccn/data-centre"
+            },
+            {
+                "text": "FAQ",
+                "href": "#"
+            },
+            {
+                "text": "General FAQ",
+                "href": "/ccn/faq/general-faq"
+            },
+            {
+                "text": "Voice Chat FAQ",
+                "href": "/ccn/faq/voice-chat-faq"
+            },
+            {
+                "text": "Website FAQ",
+                "href": "/ccn/faq/website-faq"
+            },
+            {
+                "text": "Windows FAQ",
+                "href": "/ccn/faq/windows-faq"
+            },
+            {
+                "text": "Linux FAQ",
+                "href": "https://linux.cc.iitk.ac.in/lininfo/Linux_Servers_computing_fac.html"
+            },
+            {
+                "text": "Network FAQ",
+                "href": "/ccn/faq/network-faq"
+            },
+            {
+                "text": "Mail FAQ",
+                "href": "https://linux.cc.iitk.ac.in/lininfo/IITK_mailing_system_informa.html"
+            },
+            {
+                "text": "Mac FAQ",
+                "href": "/ccn/faq/mac-faq"
+            },
+            {
+                "text": "Gallery",
+                "href": "/ccn/gallery"
+            },
+            {
+                "text": "Tenders",
+                "href": "/ccn/tenders"
+            },
+            {
+                "text": "Committees",
+                "href": "#"
+            },
+            {
+                "text": "IDIAC",
+                "href": "/ccn/idiac"
+            },
+            {
+                "text": "Contact Us",
+                "href": "/ccn/contact-iitk"
+            },
+            {
+                "text": "",
+                "href": "/ccn/"
+            },
+            {
+                "text": "Computer Centre, IIT Kanpur",
+                "href": "/ccn/"
+            },
+            {
+                "text": "IITKanpur",
+                "href": "/ccn/"
+            },
+            {
+                "text": "IITK Home",
+                "href": "http://www.iitk.ac.in/"
+            },
+            {
+                "text": "Webmail",
+                "href": "https://webmail.iitk.ac.in/"
+            },
+            {
+                "text": "Library",
+                "href": "https://pkklib.iitk.ac.in/"
+            },
+            {
+                "text": "Telephone Directory",
+                "href": "https://oag.iitk.ac.in/Tel/"
+            },
+            {
+                "text": "Team",
+                "href": "#"
+            },
+            {
+                "text": "Dean",
+                "href": "https://iitk.ac.in/ddia/"
+            },
+            {
+                "text": "Operations",
+                "href": "#"
+            },
+            {
+                "text": "Academic Staff",
+                "href": "https://www.iitk.ac.in/cc/academic-staff"
+            },
+            {
+                "text": "REO's",
+                "href": "https://www.iitk.ac.in/cc/reo-s"
+            },
+            {
+                "text": "Technical Staff",
+                "href": "https://www.iitk.ac.in/cc/technical-staff"
+            },
+            {
+                "text": "Office",
+                "href": "https://www.iitk.ac.in/cc/office"
+            },
+            {
+                "text": "Information",
+                "href": "#"
+            },
+            {
+                "text": "Office 365 subscription at IITK",
+                "href": "http://iitk.ac.in/nt/Office365//Office_365_subscription_at_IITK.htm"
+            },
+            {
+                "text": "MS Teams for faculty and staff",
+                "href": "https://iitk.ac.in/nt/faq/MS_Teams.htm"
+            },
+            {
+                "text": "Turnitin (Intranet Only)",
+                "href": "https://web.iitk.ac.in/ccnew/Turnitin.html"
+            },
+            {
+                "text": "Matlab Campus Wide License at IIT Kanpur",
+                "href": "/ccn/information/matlab-campus-wide-license-at-iit-kanpur"
+            },
+            {
+                "text": "IIT Kanpur’s Matlab Portal",
+                "href": "https://in.mathworks.com/academia/tah-portal/indian-institute-of-technology-kanpur-40765629.html"
+            },
+            {
+                "text": "Cyber Security Advisory",
+                "href": "cyber-security-advisory"
+            },
+            {
+                "text": "Quick Links",
+                "href": "#"
+            },
+            {
+                "text": "Login-Forms",
+                "href": "/ccn/quick-links/login-forms"
+            },
+            {
+                "text": "Change Password",
+                "href": "/ccn/quick-links/change-password"
+            },
+            {
+                "text": "Lost & Found",
+                "href": "https://narad.iitk.ac.in/indexing.php?server=narad.iitk.ac.in&group=IITK.lost-found&magic=181"
+            },
+            {
+                "text": "Seminar / Thesis Defense Announcements",
+                "href": "https://narad.iitk.ac.in/indexing.php?server=narad.iitk.ac.in&group=IITK.seminar&magic=12"
+            },
+            {
+                "text": "Open Source Resource",
+                "href": "http://linux.cc.iitk.ac.in"
+            },
+            {
+                "text": "Linux Documentation Project",
+                "href": "http://www.iitk.ac.in/LDP/"
+            },
+            {
+                "text": "Click Here",
+                "href": "/ccn/images\\Network\\The_procedure_for_connect_fortinet_noproxy.pdf"
+            },
+            {
+                "text": "Click Here",
+                "href": "/ccn/images\\Network\\The_procedure_for_connecting_to_ironport_noproxy.pdf"
+            },
+            {
+                "text": "Hostel's Room No IP Address.",
+                "href": "/ccn/IP_Details/Hostel_IP_Address.html"
+            },
+            {
+                "text": "Residence House No. IP Address.",
+                "href": "/ccn/IP_Details/Residence_IP_Address.html"
+            },
+            {
+                "text": "No Proxy Using Fortinet",
+                "href": "/ccn/images\\Network\\The_procedure_for_connect_fortinet_noproxy.pdf"
+            },
+            {
+                "text": "No Proxy Using Cisco Ironport",
+                "href": "/ccn/images\\Network\\The_procedure_for_connecting_to_ironport_noproxy.pdf"
+            },
+            {
+                "text": "",
+                "href": "#top"
+            },
+            {
+                "text": "IITK Home",
+                "href": "/ccn/../"
+            },
+            {
+                "text": "Library",
+                "href": "https://pkklib.iitk.ac.in/"
+            },
+            {
+                "text": "Office Location",
+                "href": "/ccn/index.php/contact-iitk"
+            },
+            {
+                "text": "",
+                "href": "https://www.facebook.com/iitkanpur"
+            },
+            {
+                "text": "",
+                "href": "https://twitter.com/IITKanpur"
+            },
+            {
+                "text": "",
+                "href": "https://www.linkedin.com/school/indian-institute-of-technology-kanpur/"
+            },
+            {
+                "text": "",
+                "href": "https://www.instagram.com/iit.kanpur/"
+            }
+        ]
+    },
+    {
+        "url": "https://iitk.ac.in/ccn/services/network/cisco-webex",
+        "title": "Cisco WebEx",
+        "headings": [
+            {
+                "Heading": "h3",
+                "text": "Cisco WebEx"
+            }
+        ],
+        "paragraphs": [
+            "Computer Centre, IIT Kanpur",
+            "Indian Institute of Technology Kanpur",
+            "The centre provides continuous help and support for the CISCO WebEx issues to the students, faculty and the staff; so that their research and academic activities will remain unaffected.",
+            "The WebEx meeting can be joined from desktop/ laptop (Windows/Mac) and Mobile.",
+            "Below are the procedures followed for using Cisco WebEx in IITK Environment:",
+            "Copyright © 2020 : IIT Kanpur",
+            "Developed and Maintained By : Prajwal Bajpai (Computer Engineer)"
+        ],
+        "links": [
+            {
+                "text": "Search Result",
+                "href": "/ccn/search-result"
+            },
+            {
+                "text": "xming",
+                "href": "/ccn/xming"
+            },
+            {
+                "text": "putty",
+                "href": "/ccn/putty"
+            },
+            {
+                "text": "Microsoft Outlook",
+                "href": "/ccn/microsoft-outlook"
+            },
+            {
+                "text": "Pine",
+                "href": "/ccn/pine"
+            },
+            {
+                "text": "Mozilla Thunderbird",
+                "href": "/ccn/mozilla-thunderbird"
+            },
+            {
+                "text": "Outlook Express",
+                "href": "/ccn/outlook-express"
+            },
+            {
+                "text": "DHCP",
+                "href": "/ccn/dhcp"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/ssl-vpn"
+            },
+            {
+                "text": "How to use SSL-VPN ?",
+                "href": "/ccn/how-to-use-ssl-vpn"
+            },
+            {
+                "text": "PRECISION AIR CONDITIONING (PAC) SYSTEM",
+                "href": "/ccn/precision-air-conditioning-pac-system"
+            },
+            {
+                "text": "FIRE SAFETY, ACCESS CONTROL, BUILDING MANAGEMENT SYSTEM (BMS) AND OTHER RELATED SYSTEMS",
+                "href": "/ccn/fire-safety-access-control-building-management-system-bms-and-other-related-systems"
+            },
+            {
+                "text": "For Windows Client",
+                "href": "/ccn/for-windows-client"
+            },
+            {
+                "text": "Executive / Advisory Committee Members",
+                "href": "/ccn/executive-advisory-committee-members"
+            },
+            {
+                "text": "What SSL VPN Provides?",
+                "href": "/ccn/what-ssl-vpn-provides"
+            },
+            {
+                "text": "Gtalk",
+                "href": "/ccn/gtalk"
+            },
+            {
+                "text": "Skype",
+                "href": "/ccn/skype"
+            },
+            {
+                "text": "Hosting Home Page",
+                "href": "/ccn/hosting-home-page"
+            },
+            {
+                "text": "Using Putty",
+                "href": "/ccn/using-putty"
+            },
+            {
+                "text": "Using WinSCP",
+                "href": "/ccn/using-winscp"
+            },
+            {
+                "text": "For Linux Client",
+                "href": "/ccn/for-linux-client"
+            },
+            {
+                "text": "For MAC Client",
+                "href": "/ccn/for-mac-client"
+            },
+            {
+                "text": "For Android Client",
+                "href": "/ccn/for-android-client"
+            },
+            {
+                "text": "Wireless Access Points",
+                "href": "#"
+            },
+            {
+                "text": "ACES",
+                "href": "/ccn/aces"
+            },
+            {
+                "text": "ACMS",
+                "href": "/ccn/acms"
+            },
+            {
+                "text": "AE",
+                "href": "/ccn/ae"
+            },
+            {
+                "text": "BSBE",
+                "href": "/ccn/bsbe"
+            },
+            {
+                "text": "CL",
+                "href": "/ccn/cl"
+            },
+            {
+                "text": "ENVIORNMENTAL",
+                "href": "/ccn/enviornmental"
+            },
+            {
+                "text": "HELICOPTER",
+                "href": "/ccn/helicopter"
+            },
+            {
+                "text": "LHC",
+                "href": "/ccn/lhc"
+            },
+            {
+                "text": "LIBRARY",
+                "href": "/ccn/library"
+            },
+            {
+                "text": "ME(NL1)",
+                "href": "/ccn/me-nl1"
+            },
+            {
+                "text": "NEW CL",
+                "href": "/ccn/new-cl"
+            },
+            {
+                "text": "NEW IME",
+                "href": "/ccn/new-ime"
+            },
+            {
+                "text": "NL2",
+                "href": "/ccn/nl2"
+            },
+            {
+                "text": "NUCLEAR",
+                "href": "/ccn/nuclear"
+            },
+            {
+                "text": "NWTF",
+                "href": "/ccn/nwtf"
+            },
+            {
+                "text": "SAMTEL",
+                "href": "/ccn/samtel"
+            },
+            {
+                "text": "SIDBI",
+                "href": "/ccn/sidbi"
+            },
+            {
+                "text": "SL",
+                "href": "/ccn/sl"
+            },
+            {
+                "text": "TUT",
+                "href": "/ccn/tut"
+            },
+            {
+                "text": "VFA",
+                "href": "/ccn/vfa"
+            },
+            {
+                "text": "VH",
+                "href": "/ccn/vh"
+            },
+            {
+                "text": "WL",
+                "href": "/ccn/wl"
+            },
+            {
+                "text": "WLE",
+                "href": "/ccn/wle"
+            },
+            {
+                "text": "WLAN",
+                "href": "/ccn/wlan"
+            },
+            {
+                "text": "Fiber Layout",
+                "href": "/ccn/fiber-layout"
+            },
+            {
+                "text": "Category",
+                "href": "/ccn/category"
+            },
+            {
+                "text": "Closed Tenders",
+                "href": "/ccn/closed-tenders"
+            },
+            {
+                "text": "Latest News",
+                "href": "/ccn/latest-news"
+            },
+            {
+                "text": "Events",
+                "href": "/ccn/events"
+            },
+            {
+                "text": "Academic Staff",
+                "href": "/ccn/academic-staff"
+            },
+            {
+                "text": "REO's",
+                "href": "/ccn/reo-s"
+            },
+            {
+                "text": "Technical Staff",
+                "href": "/ccn/technical-staff"
+            },
+            {
+                "text": "DDIA",
+                "href": "/ccn/ddia"
+            },
+            {
+                "text": "Office",
+                "href": "/ccn/office"
+            },
+            {
+                "text": "accelrys",
+                "href": "/ccn/accelrys"
+            },
+            {
+                "text": "team",
+                "href": "/ccn/22-team"
+            },
+            {
+                "text": "Labs",
+                "href": "/ccn/10-labs"
+            },
+            {
+                "text": "FAQ",
+                "href": "/ccn/11-faq"
+            },
+            {
+                "text": "Other Links",
+                "href": "/ccn/2-uncategorised"
+            },
+            {
+                "text": "Services",
+                "href": "/ccn/12-services"
+            },
+            {
+                "text": "CCCC",
+                "href": "/ccn/16-cccc"
+            },
+            {
+                "text": "Servers",
+                "href": "/ccn/17-servers"
+            },
+            {
+                "text": "Data Centre",
+                "href": "/ccn/18-data-centre"
+            },
+            {
+                "text": "Main Menu",
+                "href": "/ccn/19-main-menu"
+            },
+            {
+                "text": "Microsoft Account FAQ",
+                "href": "/ccn/microsoft-account-faq"
+            },
+            {
+                "text": "Facility Management Services",
+                "href": "/ccn/facility-management-services"
+            },
+            {
+                "text": "Online training session on Microsoft Excel and Word",
+                "href": "/ccn/online-training-session-on-microsoft-excel-and-word"
+            },
+            {
+                "text": "Cyber Security Advisory",
+                "href": "/ccn/cyber-security-advisory"
+            },
+            {
+                "text": "IEEE Learning Network",
+                "href": "/ccn/ieee-learning-network"
+            },
+            {
+                "text": "How to Change Passwords",
+                "href": "/ccn/how-to-change-passwords"
+            },
+            {
+                "text": "Turnitin",
+                "href": "/ccn/turnitin"
+            },
+            {
+                "text": "IDIAC",
+                "href": "/ccn/idiac"
+            },
+            {
+                "text": "List of Software",
+                "href": "/ccn/list-of-software"
+            },
+            {
+                "text": "CC Home",
+                "href": "/ccn/"
+            },
+            {
+                "text": "Policies",
+                "href": "/ccn/policies"
+            },
+            {
+                "text": "Computing Facilities - Unethical Use",
+                "href": "/ccn/policies/computing-facilities-unethical-use"
+            },
+            {
+                "text": "CC Facilities Charges",
+                "href": "/ccn/policies/cc-facilities-charges"
+            },
+            {
+                "text": "CC Accounts Deletion",
+                "href": "/ccn/policies/cc-accounts-deletion"
+            },
+            {
+                "text": "Services",
+                "href": "/ccn/services"
+            },
+            {
+                "text": "Email",
+                "href": "#"
+            },
+            {
+                "text": "Login",
+                "href": "/ccn/services/email/login"
+            },
+            {
+                "text": "Email",
+                "href": "/ccn/services/email/email"
+            },
+            {
+                "text": "Backup & Recovery",
+                "href": "/ccn/services/email/backup-recovery"
+            },
+            {
+                "text": "Voice Chat",
+                "href": "/ccn/services/email/voice-chat"
+            },
+            {
+                "text": "Web",
+                "href": "/ccn/services/web"
+            },
+            {
+                "text": "Login",
+                "href": "/ccn/services/web/login"
+            },
+            {
+                "text": "Space Quota",
+                "href": "/ccn/services/web/space-quota"
+            },
+            {
+                "text": "Hosting Home Page",
+                "href": "/ccn/services/web/hosting-home-page"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/services/web/ssl-vpn"
+            },
+            {
+                "text": "Web Access",
+                "href": "/ccn/services/web/web-access"
+            },
+            {
+                "text": "Network",
+                "href": "/ccn/services/network"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/services/network/how-to-use-ssl-vpn"
+            },
+            {
+                "text": "Direct (No Proxy) Internet",
+                "href": "/ccn/services/network/direct-no-proxy-internet"
+            },
+            {
+                "text": "Network FAQ",
+                "href": "/ccn/services/network/network-faq"
+            },
+            {
+                "text": "Network Diagrams",
+                "href": "/ccn/services/network/network-diagrams"
+            },
+            {
+                "text": "Internet Links at a Glance",
+                "href": "/ccn/services/network/internet-links-at-a-glance"
+            },
+            {
+                "text": "Guest Wi-Fi Access @IITK",
+                "href": "/ccn/services/network/guest-wi-fi-access-iitk"
+            },
+            {
+                "text": "Single Sign-On Wi-Fi",
+                "href": "/ccn/images\\Network\\Wifi_with_single_signon.pdf"
+            },
+            {
+                "text": "eduroam",
+                "href": "/ccn/images\\Network\\eduroam.pdf"
+            },
+            {
+                "text": "Cisco WebEx",
+                "href": "/ccn/services/network/cisco-webex"
+            },
+            {
+                "text": "Purchasing LAN Cord",
+                "href": "/ccn/images\\Network\\Purchasing_LAN_Cord_from_CC.pdf"
+            },
+            {
+                "text": "LAN Port Request Form",
+                "href": "/ccn/images\\Login_Forms\\Internet_port_requistion_form.pdf"
+            },
+            {
+                "text": "WLAN",
+                "href": "/ccn/services/network/wlan"
+            },
+            {
+                "text": "DHCP",
+                "href": "/ccn/services/network/dhcp"
+            },
+            {
+                "text": "Linux Setup",
+                "href": "/ccn/services/network/linux-setup"
+            },
+            {
+                "text": "IP Addresses",
+                "href": "#"
+            },
+            {
+                "text": "Building-wise IP Address",
+                "href": "/ccn/IP_Details/Building_IP_Details.html"
+            },
+            {
+                "text": "Hostel IP Address",
+                "href": "/ccn/IP_Details/Hostel_IP_Address.html"
+            },
+            {
+                "text": "Residence IP Address",
+                "href": "/ccn/IP_Details/Residence_IP_Address.html"
+            },
+            {
+                "text": "Labs",
+                "href": "/ccn/services/labs"
+            },
+            {
+                "text": "Windows Lab",
+                "href": "#"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/services/labs/windows-lab/software"
+            },
+            {
+                "text": "Tips and Trick",
+                "href": "/ccn/services/labs/windows-lab/tips-and-trick"
+            },
+            {
+                "text": "Linux Lab",
+                "href": "#"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/services/labs/linux-software/linux-software"
+            },
+            {
+                "text": "Use Application Remotely",
+                "href": "/ccn/services/labs/linux-software/use-application-remotely"
+            },
+            {
+                "text": "FMS",
+                "href": "/ccn/facility-management-services"
+            },
+            {
+                "text": "HPC",
+                "href": "https://iitk.ac.in/hpc/"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/softwares"
+            },
+            {
+                "text": "Data Centre",
+                "href": "/ccn/data-centre"
+            },
+            {
+                "text": "FAQ",
+                "href": "#"
+            },
+            {
+                "text": "General FAQ",
+                "href": "/ccn/faq/general-faq"
+            },
+            {
+                "text": "Voice Chat FAQ",
+                "href": "/ccn/faq/voice-chat-faq"
+            },
+            {
+                "text": "Website FAQ",
+                "href": "/ccn/faq/website-faq"
+            },
+            {
+                "text": "Windows FAQ",
+                "href": "/ccn/faq/windows-faq"
+            },
+            {
+                "text": "Linux FAQ",
+                "href": "https://linux.cc.iitk.ac.in/lininfo/Linux_Servers_computing_fac.html"
+            },
+            {
+                "text": "Network FAQ",
+                "href": "/ccn/faq/network-faq"
+            },
+            {
+                "text": "Mail FAQ",
+                "href": "https://linux.cc.iitk.ac.in/lininfo/IITK_mailing_system_informa.html"
+            },
+            {
+                "text": "Mac FAQ",
+                "href": "/ccn/faq/mac-faq"
+            },
+            {
+                "text": "Gallery",
+                "href": "/ccn/gallery"
+            },
+            {
+                "text": "Tenders",
+                "href": "/ccn/tenders"
+            },
+            {
+                "text": "Committees",
+                "href": "#"
+            },
+            {
+                "text": "IDIAC",
+                "href": "/ccn/idiac"
+            },
+            {
+                "text": "Contact Us",
+                "href": "/ccn/contact-iitk"
+            },
+            {
+                "text": "",
+                "href": "/ccn/"
+            },
+            {
+                "text": "Computer Centre, IIT Kanpur",
+                "href": "/ccn/"
+            },
+            {
+                "text": "IITKanpur",
+                "href": "/ccn/"
+            },
+            {
+                "text": "IITK Home",
+                "href": "http://www.iitk.ac.in/"
+            },
+            {
+                "text": "Webmail",
+                "href": "https://webmail.iitk.ac.in/"
+            },
+            {
+                "text": "Library",
+                "href": "https://pkklib.iitk.ac.in/"
+            },
+            {
+                "text": "Telephone Directory",
+                "href": "https://oag.iitk.ac.in/Tel/"
+            },
+            {
+                "text": "Team",
+                "href": "#"
+            },
+            {
+                "text": "Dean",
+                "href": "https://iitk.ac.in/ddia/"
+            },
+            {
+                "text": "Operations",
+                "href": "#"
+            },
+            {
+                "text": "Academic Staff",
+                "href": "https://www.iitk.ac.in/cc/academic-staff"
+            },
+            {
+                "text": "REO's",
+                "href": "https://www.iitk.ac.in/cc/reo-s"
+            },
+            {
+                "text": "Technical Staff",
+                "href": "https://www.iitk.ac.in/cc/technical-staff"
+            },
+            {
+                "text": "Office",
+                "href": "https://www.iitk.ac.in/cc/office"
+            },
+            {
+                "text": "Information",
+                "href": "#"
+            },
+            {
+                "text": "Office 365 subscription at IITK",
+                "href": "http://iitk.ac.in/nt/Office365//Office_365_subscription_at_IITK.htm"
+            },
+            {
+                "text": "MS Teams for faculty and staff",
+                "href": "https://iitk.ac.in/nt/faq/MS_Teams.htm"
+            },
+            {
+                "text": "Turnitin (Intranet Only)",
+                "href": "https://web.iitk.ac.in/ccnew/Turnitin.html"
+            },
+            {
+                "text": "Matlab Campus Wide License at IIT Kanpur",
+                "href": "/ccn/information/matlab-campus-wide-license-at-iit-kanpur"
+            },
+            {
+                "text": "IIT Kanpur’s Matlab Portal",
+                "href": "https://in.mathworks.com/academia/tah-portal/indian-institute-of-technology-kanpur-40765629.html"
+            },
+            {
+                "text": "Cyber Security Advisory",
+                "href": "cyber-security-advisory"
+            },
+            {
+                "text": "Quick Links",
+                "href": "#"
+            },
+            {
+                "text": "Login-Forms",
+                "href": "/ccn/quick-links/login-forms"
+            },
+            {
+                "text": "Change Password",
+                "href": "/ccn/quick-links/change-password"
+            },
+            {
+                "text": "Lost & Found",
+                "href": "https://narad.iitk.ac.in/indexing.php?server=narad.iitk.ac.in&group=IITK.lost-found&magic=181"
+            },
+            {
+                "text": "Seminar / Thesis Defense Announcements",
+                "href": "https://narad.iitk.ac.in/indexing.php?server=narad.iitk.ac.in&group=IITK.seminar&magic=12"
+            },
+            {
+                "text": "Open Source Resource",
+                "href": "http://linux.cc.iitk.ac.in"
+            },
+            {
+                "text": "Linux Documentation Project",
+                "href": "http://www.iitk.ac.in/LDP/"
+            },
+            {
+                "text": "How to join Cisco WebEx Meeting",
+                "href": "/ccn/images\\Network\\How_to_Join_Cisco_WebEx_Meeting.pdf"
+            },
+            {
+                "text": "How to start Cisco WebEx Meeting",
+                "href": "/ccn/images\\Network\\How_to_Start_Cisco_Webex_Meeting.pdf"
+            },
+            {
+                "text": "",
+                "href": "#top"
+            },
+            {
+                "text": "IITK Home",
+                "href": "/ccn/../"
+            },
+            {
+                "text": "Library",
+                "href": "https://pkklib.iitk.ac.in/"
+            },
+            {
+                "text": "Office Location",
+                "href": "/ccn/index.php/contact-iitk"
+            },
+            {
+                "text": "",
+                "href": "https://www.facebook.com/iitkanpur"
+            },
+            {
+                "text": "",
+                "href": "https://twitter.com/IITKanpur"
+            },
+            {
+                "text": "",
+                "href": "https://www.linkedin.com/school/indian-institute-of-technology-kanpur/"
+            },
+            {
+                "text": "",
+                "href": "https://www.instagram.com/iit.kanpur/"
+            }
+        ]
+    },
+    {
+        "url": "https://iitk.ac.in/ccn/services/network/wlan",
+        "title": "WLAN",
+        "headings": [
+            {
+                "Heading": "h3",
+                "text": "WLAN"
+            },
+            {
+                "Heading": "h5",
+                "text": "WLAN Coverage Area:"
+            },
+            {
+                "Heading": "h5",
+                "text": "Wireless Access Point Location:"
+            },
+            {
+                "Heading": "h5",
+                "text": "Wi-Fi Access Point Installation Details:"
+            },
+            {
+                "Heading": "h6",
+                "text": "WiFi Access Point Installation Details"
+            },
+            {
+                "Heading": "h5",
+                "text": "Setting for Open WLAN:"
+            },
+            {
+                "Heading": "h5",
+                "text": "Setting for Secured WLAN:"
+            }
+        ],
+        "paragraphs": [
+            "Computer Centre, IIT Kanpur",
+            "Indian Institute of Technology Kanpur",
+            "Computer Centre has installed WLAN on 802.11b/g to allow accessing IITK computing resources (Local network and Internet) through the Wireless communication. WLAN employs mobile network access through the Wireless Access Points. Only authorized users can access the IITK network as well as Internet Services.",
+            "Computer Centre has started running aDHCP serverfor academic area network. Now you need not set a specific IP address for your machine, and configure it to get the IP address automatically.",
+            "(DHCP will also set other parameters like gateway, subnet mask, etc. automatically.)",
+            "Only IITK users authorized to access IITK Network from any place in campus (where the Access Points are installed) using various commercial Wireless Cards (i.e. Cisco, Orinoco, D-Link, Linksys etc.).",
+            "In IITK, WLAN is used to provide reliable and proper network connectivity to mobile on-campus users. They can access all servers and applications which they can access from wired structure.",
+            "Computer Centre, CSE Building, Northern Lab -1, Northern Lab -2, Southern Lab, Core Lab, Visitors Hostel, ACES Building, Western LAB, Western Lab Ext., Aerospace, Lecture Hall Complex, BSBE, Samtel, Auditorium, Wireless Access Point Location",
+            "(Pictorial Representation):",
+            "In each building we have placed the access point in a place which we felt would be most convenient for mobile users. As of now, we have more than 100 access points in various locations.",
+            "If there is any location in any academic building where there are a couple of people using laptops and other WiFi enabled devices, and the signal from the current access point is weak, then CC would be happy to place another access point in that location. Please report such cases to Mr. Navpreet Singh(This email address is being protected from spambots. You need JavaScript enabled to view it.). We are giving the details of locations where we have put WiFi access point.",
+            "http://www.iitk.ac.in/cc/connecting_to_secure_wireless.pdf",
+            "We advise that for all desktops you continue to configure it with static or permanent IP address, and use dynamic or automatic IP addresses for your mobile devices like laptops.",
+            "Having a static IP address helps in diagnosing problems related to networks, and if the configuration is to be done only once in its lifetime, then that effort is worth the benefits. But if the computer is to be moved around, then configuring it every time in a different location is tedious, and only in such situations, dynamic IP address should be used. Your static IP addresses will continue to be allotted through the department CC coordinator.",
+            "Copyright © 2020 : IIT Kanpur",
+            "Developed and Maintained By : Prajwal Bajpai (Computer Engineer)"
+        ],
+        "links": [
+            {
+                "text": "Search Result",
+                "href": "/ccn/search-result"
+            },
+            {
+                "text": "xming",
+                "href": "/ccn/xming"
+            },
+            {
+                "text": "putty",
+                "href": "/ccn/putty"
+            },
+            {
+                "text": "Microsoft Outlook",
+                "href": "/ccn/microsoft-outlook"
+            },
+            {
+                "text": "Pine",
+                "href": "/ccn/pine"
+            },
+            {
+                "text": "Mozilla Thunderbird",
+                "href": "/ccn/mozilla-thunderbird"
+            },
+            {
+                "text": "Outlook Express",
+                "href": "/ccn/outlook-express"
+            },
+            {
+                "text": "DHCP",
+                "href": "/ccn/dhcp"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/ssl-vpn"
+            },
+            {
+                "text": "How to use SSL-VPN ?",
+                "href": "/ccn/how-to-use-ssl-vpn"
+            },
+            {
+                "text": "PRECISION AIR CONDITIONING (PAC) SYSTEM",
+                "href": "/ccn/precision-air-conditioning-pac-system"
+            },
+            {
+                "text": "FIRE SAFETY, ACCESS CONTROL, BUILDING MANAGEMENT SYSTEM (BMS) AND OTHER RELATED SYSTEMS",
+                "href": "/ccn/fire-safety-access-control-building-management-system-bms-and-other-related-systems"
+            },
+            {
+                "text": "For Windows Client",
+                "href": "/ccn/for-windows-client"
+            },
+            {
+                "text": "Executive / Advisory Committee Members",
+                "href": "/ccn/executive-advisory-committee-members"
+            },
+            {
+                "text": "What SSL VPN Provides?",
+                "href": "/ccn/what-ssl-vpn-provides"
+            },
+            {
+                "text": "Gtalk",
+                "href": "/ccn/gtalk"
+            },
+            {
+                "text": "Skype",
+                "href": "/ccn/skype"
+            },
+            {
+                "text": "Hosting Home Page",
+                "href": "/ccn/hosting-home-page"
+            },
+            {
+                "text": "Using Putty",
+                "href": "/ccn/using-putty"
+            },
+            {
+                "text": "Using WinSCP",
+                "href": "/ccn/using-winscp"
+            },
+            {
+                "text": "For Linux Client",
+                "href": "/ccn/for-linux-client"
+            },
+            {
+                "text": "For MAC Client",
+                "href": "/ccn/for-mac-client"
+            },
+            {
+                "text": "For Android Client",
+                "href": "/ccn/for-android-client"
+            },
+            {
+                "text": "Wireless Access Points",
+                "href": "#"
+            },
+            {
+                "text": "ACES",
+                "href": "/ccn/aces"
+            },
+            {
+                "text": "ACMS",
+                "href": "/ccn/acms"
+            },
+            {
+                "text": "AE",
+                "href": "/ccn/ae"
+            },
+            {
+                "text": "BSBE",
+                "href": "/ccn/bsbe"
+            },
+            {
+                "text": "CL",
+                "href": "/ccn/cl"
+            },
+            {
+                "text": "ENVIORNMENTAL",
+                "href": "/ccn/enviornmental"
+            },
+            {
+                "text": "HELICOPTER",
+                "href": "/ccn/helicopter"
+            },
+            {
+                "text": "LHC",
+                "href": "/ccn/lhc"
+            },
+            {
+                "text": "LIBRARY",
+                "href": "/ccn/library"
+            },
+            {
+                "text": "ME(NL1)",
+                "href": "/ccn/me-nl1"
+            },
+            {
+                "text": "NEW CL",
+                "href": "/ccn/new-cl"
+            },
+            {
+                "text": "NEW IME",
+                "href": "/ccn/new-ime"
+            },
+            {
+                "text": "NL2",
+                "href": "/ccn/nl2"
+            },
+            {
+                "text": "NUCLEAR",
+                "href": "/ccn/nuclear"
+            },
+            {
+                "text": "NWTF",
+                "href": "/ccn/nwtf"
+            },
+            {
+                "text": "SAMTEL",
+                "href": "/ccn/samtel"
+            },
+            {
+                "text": "SIDBI",
+                "href": "/ccn/sidbi"
+            },
+            {
+                "text": "SL",
+                "href": "/ccn/sl"
+            },
+            {
+                "text": "TUT",
+                "href": "/ccn/tut"
+            },
+            {
+                "text": "VFA",
+                "href": "/ccn/vfa"
+            },
+            {
+                "text": "VH",
+                "href": "/ccn/vh"
+            },
+            {
+                "text": "WL",
+                "href": "/ccn/wl"
+            },
+            {
+                "text": "WLE",
+                "href": "/ccn/wle"
+            },
+            {
+                "text": "WLAN",
+                "href": "/ccn/wlan"
+            },
+            {
+                "text": "Fiber Layout",
+                "href": "/ccn/fiber-layout"
+            },
+            {
+                "text": "Category",
+                "href": "/ccn/category"
+            },
+            {
+                "text": "Closed Tenders",
+                "href": "/ccn/closed-tenders"
+            },
+            {
+                "text": "Latest News",
+                "href": "/ccn/latest-news"
+            },
+            {
+                "text": "Events",
+                "href": "/ccn/events"
+            },
+            {
+                "text": "Academic Staff",
+                "href": "/ccn/academic-staff"
+            },
+            {
+                "text": "REO's",
+                "href": "/ccn/reo-s"
+            },
+            {
+                "text": "Technical Staff",
+                "href": "/ccn/technical-staff"
+            },
+            {
+                "text": "DDIA",
+                "href": "/ccn/ddia"
+            },
+            {
+                "text": "Office",
+                "href": "/ccn/office"
+            },
+            {
+                "text": "accelrys",
+                "href": "/ccn/accelrys"
+            },
+            {
+                "text": "team",
+                "href": "/ccn/22-team"
+            },
+            {
+                "text": "Labs",
+                "href": "/ccn/10-labs"
+            },
+            {
+                "text": "FAQ",
+                "href": "/ccn/11-faq"
+            },
+            {
+                "text": "Other Links",
+                "href": "/ccn/2-uncategorised"
+            },
+            {
+                "text": "Services",
+                "href": "/ccn/12-services"
+            },
+            {
+                "text": "CCCC",
+                "href": "/ccn/16-cccc"
+            },
+            {
+                "text": "Servers",
+                "href": "/ccn/17-servers"
+            },
+            {
+                "text": "Data Centre",
+                "href": "/ccn/18-data-centre"
+            },
+            {
+                "text": "Main Menu",
+                "href": "/ccn/19-main-menu"
+            },
+            {
+                "text": "Microsoft Account FAQ",
+                "href": "/ccn/microsoft-account-faq"
+            },
+            {
+                "text": "Facility Management Services",
+                "href": "/ccn/facility-management-services"
+            },
+            {
+                "text": "Online training session on Microsoft Excel and Word",
+                "href": "/ccn/online-training-session-on-microsoft-excel-and-word"
+            },
+            {
+                "text": "Cyber Security Advisory",
+                "href": "/ccn/cyber-security-advisory"
+            },
+            {
+                "text": "IEEE Learning Network",
+                "href": "/ccn/ieee-learning-network"
+            },
+            {
+                "text": "How to Change Passwords",
+                "href": "/ccn/how-to-change-passwords"
+            },
+            {
+                "text": "Turnitin",
+                "href": "/ccn/turnitin"
+            },
+            {
+                "text": "IDIAC",
+                "href": "/ccn/idiac"
+            },
+            {
+                "text": "List of Software",
+                "href": "/ccn/list-of-software"
+            },
+            {
+                "text": "CC Home",
+                "href": "/ccn/"
+            },
+            {
+                "text": "Policies",
+                "href": "/ccn/policies"
+            },
+            {
+                "text": "Computing Facilities - Unethical Use",
+                "href": "/ccn/policies/computing-facilities-unethical-use"
+            },
+            {
+                "text": "CC Facilities Charges",
+                "href": "/ccn/policies/cc-facilities-charges"
+            },
+            {
+                "text": "CC Accounts Deletion",
+                "href": "/ccn/policies/cc-accounts-deletion"
+            },
+            {
+                "text": "Services",
+                "href": "/ccn/services"
+            },
+            {
+                "text": "Email",
+                "href": "#"
+            },
+            {
+                "text": "Login",
+                "href": "/ccn/services/email/login"
+            },
+            {
+                "text": "Email",
+                "href": "/ccn/services/email/email"
+            },
+            {
+                "text": "Backup & Recovery",
+                "href": "/ccn/services/email/backup-recovery"
+            },
+            {
+                "text": "Voice Chat",
+                "href": "/ccn/services/email/voice-chat"
+            },
+            {
+                "text": "Web",
+                "href": "/ccn/services/web"
+            },
+            {
+                "text": "Login",
+                "href": "/ccn/services/web/login"
+            },
+            {
+                "text": "Space Quota",
+                "href": "/ccn/services/web/space-quota"
+            },
+            {
+                "text": "Hosting Home Page",
+                "href": "/ccn/services/web/hosting-home-page"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/services/web/ssl-vpn"
+            },
+            {
+                "text": "Web Access",
+                "href": "/ccn/services/web/web-access"
+            },
+            {
+                "text": "Network",
+                "href": "/ccn/services/network"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/services/network/how-to-use-ssl-vpn"
+            },
+            {
+                "text": "Direct (No Proxy) Internet",
+                "href": "/ccn/services/network/direct-no-proxy-internet"
+            },
+            {
+                "text": "Network FAQ",
+                "href": "/ccn/services/network/network-faq"
+            },
+            {
+                "text": "Network Diagrams",
+                "href": "/ccn/services/network/network-diagrams"
+            },
+            {
+                "text": "Internet Links at a Glance",
+                "href": "/ccn/services/network/internet-links-at-a-glance"
+            },
+            {
+                "text": "Guest Wi-Fi Access @IITK",
+                "href": "/ccn/services/network/guest-wi-fi-access-iitk"
+            },
+            {
+                "text": "Single Sign-On Wi-Fi",
+                "href": "/ccn/images\\Network\\Wifi_with_single_signon.pdf"
+            },
+            {
+                "text": "eduroam",
+                "href": "/ccn/images\\Network\\eduroam.pdf"
+            },
+            {
+                "text": "Cisco WebEx",
+                "href": "/ccn/services/network/cisco-webex"
+            },
+            {
+                "text": "Purchasing LAN Cord",
+                "href": "/ccn/images\\Network\\Purchasing_LAN_Cord_from_CC.pdf"
+            },
+            {
+                "text": "LAN Port Request Form",
+                "href": "/ccn/images\\Login_Forms\\Internet_port_requistion_form.pdf"
+            },
+            {
+                "text": "WLAN",
+                "href": "/ccn/services/network/wlan"
+            },
+            {
+                "text": "DHCP",
+                "href": "/ccn/services/network/dhcp"
+            },
+            {
+                "text": "Linux Setup",
+                "href": "/ccn/services/network/linux-setup"
+            },
+            {
+                "text": "IP Addresses",
+                "href": "#"
+            },
+            {
+                "text": "Building-wise IP Address",
+                "href": "/ccn/IP_Details/Building_IP_Details.html"
+            },
+            {
+                "text": "Hostel IP Address",
+                "href": "/ccn/IP_Details/Hostel_IP_Address.html"
+            },
+            {
+                "text": "Residence IP Address",
+                "href": "/ccn/IP_Details/Residence_IP_Address.html"
+            },
+            {
+                "text": "Labs",
+                "href": "/ccn/services/labs"
+            },
+            {
+                "text": "Windows Lab",
+                "href": "#"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/services/labs/windows-lab/software"
+            },
+            {
+                "text": "Tips and Trick",
+                "href": "/ccn/services/labs/windows-lab/tips-and-trick"
+            },
+            {
+                "text": "Linux Lab",
+                "href": "#"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/services/labs/linux-software/linux-software"
+            },
+            {
+                "text": "Use Application Remotely",
+                "href": "/ccn/services/labs/linux-software/use-application-remotely"
+            },
+            {
+                "text": "FMS",
+                "href": "/ccn/facility-management-services"
+            },
+            {
+                "text": "HPC",
+                "href": "https://iitk.ac.in/hpc/"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/softwares"
+            },
+            {
+                "text": "Data Centre",
+                "href": "/ccn/data-centre"
+            },
+            {
+                "text": "FAQ",
+                "href": "#"
+            },
+            {
+                "text": "General FAQ",
+                "href": "/ccn/faq/general-faq"
+            },
+            {
+                "text": "Voice Chat FAQ",
+                "href": "/ccn/faq/voice-chat-faq"
+            },
+            {
+                "text": "Website FAQ",
+                "href": "/ccn/faq/website-faq"
+            },
+            {
+                "text": "Windows FAQ",
+                "href": "/ccn/faq/windows-faq"
+            },
+            {
+                "text": "Linux FAQ",
+                "href": "https://linux.cc.iitk.ac.in/lininfo/Linux_Servers_computing_fac.html"
+            },
+            {
+                "text": "Network FAQ",
+                "href": "/ccn/faq/network-faq"
+            },
+            {
+                "text": "Mail FAQ",
+                "href": "https://linux.cc.iitk.ac.in/lininfo/IITK_mailing_system_informa.html"
+            },
+            {
+                "text": "Mac FAQ",
+                "href": "/ccn/faq/mac-faq"
+            },
+            {
+                "text": "Gallery",
+                "href": "/ccn/gallery"
+            },
+            {
+                "text": "Tenders",
+                "href": "/ccn/tenders"
+            },
+            {
+                "text": "Committees",
+                "href": "#"
+            },
+            {
+                "text": "IDIAC",
+                "href": "/ccn/idiac"
+            },
+            {
+                "text": "Contact Us",
+                "href": "/ccn/contact-iitk"
+            },
+            {
+                "text": "",
+                "href": "/ccn/"
+            },
+            {
+                "text": "Computer Centre, IIT Kanpur",
+                "href": "/ccn/"
+            },
+            {
+                "text": "IITKanpur",
+                "href": "/ccn/"
+            },
+            {
+                "text": "IITK Home",
+                "href": "http://www.iitk.ac.in/"
+            },
+            {
+                "text": "Webmail",
+                "href": "https://webmail.iitk.ac.in/"
+            },
+            {
+                "text": "Library",
+                "href": "https://pkklib.iitk.ac.in/"
+            },
+            {
+                "text": "Telephone Directory",
+                "href": "https://oag.iitk.ac.in/Tel/"
+            },
+            {
+                "text": "Team",
+                "href": "#"
+            },
+            {
+                "text": "Dean",
+                "href": "https://iitk.ac.in/ddia/"
+            },
+            {
+                "text": "Operations",
+                "href": "#"
+            },
+            {
+                "text": "Academic Staff",
+                "href": "https://www.iitk.ac.in/cc/academic-staff"
+            },
+            {
+                "text": "REO's",
+                "href": "https://www.iitk.ac.in/cc/reo-s"
+            },
+            {
+                "text": "Technical Staff",
+                "href": "https://www.iitk.ac.in/cc/technical-staff"
+            },
+            {
+                "text": "Office",
+                "href": "https://www.iitk.ac.in/cc/office"
+            },
+            {
+                "text": "Information",
+                "href": "#"
+            },
+            {
+                "text": "Office 365 subscription at IITK",
+                "href": "http://iitk.ac.in/nt/Office365//Office_365_subscription_at_IITK.htm"
+            },
+            {
+                "text": "MS Teams for faculty and staff",
+                "href": "https://iitk.ac.in/nt/faq/MS_Teams.htm"
+            },
+            {
+                "text": "Turnitin (Intranet Only)",
+                "href": "https://web.iitk.ac.in/ccnew/Turnitin.html"
+            },
+            {
+                "text": "Matlab Campus Wide License at IIT Kanpur",
+                "href": "/ccn/information/matlab-campus-wide-license-at-iit-kanpur"
+            },
+            {
+                "text": "IIT Kanpur’s Matlab Portal",
+                "href": "https://in.mathworks.com/academia/tah-portal/indian-institute-of-technology-kanpur-40765629.html"
+            },
+            {
+                "text": "Cyber Security Advisory",
+                "href": "cyber-security-advisory"
+            },
+            {
+                "text": "Quick Links",
+                "href": "#"
+            },
+            {
+                "text": "Login-Forms",
+                "href": "/ccn/quick-links/login-forms"
+            },
+            {
+                "text": "Change Password",
+                "href": "/ccn/quick-links/change-password"
+            },
+            {
+                "text": "Lost & Found",
+                "href": "https://narad.iitk.ac.in/indexing.php?server=narad.iitk.ac.in&group=IITK.lost-found&magic=181"
+            },
+            {
+                "text": "Seminar / Thesis Defense Announcements",
+                "href": "https://narad.iitk.ac.in/indexing.php?server=narad.iitk.ac.in&group=IITK.seminar&magic=12"
+            },
+            {
+                "text": "Open Source Resource",
+                "href": "http://linux.cc.iitk.ac.in"
+            },
+            {
+                "text": "Linux Documentation Project",
+                "href": "http://www.iitk.ac.in/LDP/"
+            },
+            {
+                "text": "ACES",
+                "href": "/ccn/index.php/aces"
+            },
+            {
+                "text": "ACMS",
+                "href": "/ccn/index.php/acms"
+            },
+            {
+                "text": "AE",
+                "href": "/ccn/index.php/ae"
+            },
+            {
+                "text": "BSBE",
+                "href": "/ccn/index.php/bsbe"
+            },
+            {
+                "text": "CL",
+                "href": "/ccn/index.php/cl"
+            },
+            {
+                "text": "ENVIORNMENTAL",
+                "href": "/ccn/index.php/enviornmental"
+            },
+            {
+                "text": "HELICOPTER",
+                "href": "/ccn/index.php/helicopter"
+            },
+            {
+                "text": "LHC",
+                "href": "/ccn/index.php/lhc"
+            },
+            {
+                "text": "LIBRARY",
+                "href": "/ccn/index.php/library"
+            },
+            {
+                "text": "ME(NL1)",
+                "href": "/ccn/index.php/me-nl1"
+            },
+            {
+                "text": "NEW CL",
+                "href": "/ccn/index.php/new-cl"
+            },
+            {
+                "text": "NEW IME",
+                "href": "/ccn/index.php/new-ime"
+            },
+            {
+                "text": "NL2",
+                "href": "/ccn/index.php/nl2"
+            },
+            {
+                "text": "NUCLEAR",
+                "href": "/ccn/index.php/nuclear"
+            },
+            {
+                "text": "NWTF",
+                "href": "/ccn/index.php/nwtf"
+            },
+            {
+                "text": "SAMTEL",
+                "href": "/ccn/index.php/samtel"
+            },
+            {
+                "text": "SIDBI",
+                "href": "/ccn/index.php/sidbi"
+            },
+            {
+                "text": "SL",
+                "href": "/ccn/index.php/sl"
+            },
+            {
+                "text": "TUT",
+                "href": "/ccn/index.php/tut"
+            },
+            {
+                "text": "VFA",
+                "href": "/ccn/index.php/vfa"
+            },
+            {
+                "text": "VH",
+                "href": "/ccn/index.php/vh"
+            },
+            {
+                "text": "WL",
+                "href": "/ccn/index.php/wl"
+            },
+            {
+                "text": "WLE",
+                "href": "/ccn/index.php/wle"
+            },
+            {
+                "text": "(This email address is being protected from spambots. You need JavaScript enabled to view it.)",
+                "href": "/ccn/\n <script type='text/javascript'>\n <!--\n var prefix = 'ma' + 'il' + 'to';\n var path = 'hr' + 'ef' + '=';\n var addy26531 = 'navi' + '@';\n addy26531 = addy26531 + 'iitk' + '.' + 'ac' + '.' + 'in';\n document.write('<a ' + path + '\\'' + prefix + ':' + addy26531 + '\\'>');\n document.write(addy26531);\n document.write('<\\/a>');\n //-->\\n </script><script type='text/javascript'>\n <!--\n document.write('<span style=\\'display: none;\\'>');\n //-->\n </script>This email address is being protected from spambots. You need JavaScript enabled to view it.\n <script type='text/javascript'>\n <!--\n document.write('</');\n document.write('span>');\n //-->\n </script>"
+            },
+            {
+                "text": "http://www.iitk.ac.in/cc/connecting_to_secure_wireless.pdf",
+                "href": "/ccn/images\\Wireless_Access_Point\\connecting_to_secure_wireless.pdf"
+            },
+            {
+                "text": "",
+                "href": "#top"
+            },
+            {
+                "text": "IITK Home",
+                "href": "/ccn/../"
+            },
+            {
+                "text": "Library",
+                "href": "https://pkklib.iitk.ac.in/"
+            },
+            {
+                "text": "Office Location",
+                "href": "/ccn/index.php/contact-iitk"
+            },
+            {
+                "text": "",
+                "href": "https://www.facebook.com/iitkanpur"
+            },
+            {
+                "text": "",
+                "href": "https://twitter.com/IITKanpur"
+            },
+            {
+                "text": "",
+                "href": "https://www.linkedin.com/school/indian-institute-of-technology-kanpur/"
+            },
+            {
+                "text": "",
+                "href": "https://www.instagram.com/iit.kanpur/"
+            }
+        ]
+    },
+    {
+        "url": "https://iitk.ac.in/ccn/services/network/dhcp",
+        "title": "DHCP",
+        "headings": [
+            {
+                "Heading": "h3",
+                "text": "DHCP"
+            }
+        ],
+        "paragraphs": [
+            "Computer Centre, IIT Kanpur",
+            "Indian Institute of Technology Kanpur",
+            "Computer Centre has started running a DHCP server for academic area network. Now you need not set a specific IP address for your machine, and configure it to get the IP address automatically.",
+            "(DHCP will also set other parameters like gateway, subnet mask, etc. automatically.)",
+            "DHCP stands forDynamic Host Configuration Protocol.DHCP's purpose is to enable individual computers on an IP network to extract their configurations from a server (the 'DHCP server') or servers.",
+            "We advise that for all desktops you continue to configure it with static or permanent IP address, and use dynamic or automatic IP addresses for your mobile devices like laptops. Having a static IP address helps in diagnosing problems related to networks, and if the configuration is to be done only once in its lifetime, then that effort is worth the benefits. But if the computer is to be moved around, then configuring it every time in a different location is tedious, and only in such situations, dynamic IP address should be used. Your static IP addresses will continue to be allotted through the department CC coordinator.",
+            "Copyright © 2020 : IIT Kanpur",
+            "Developed and Maintained By : Prajwal Bajpai (Computer Engineer)"
+        ],
+        "links": [
+            {
+                "text": "Search Result",
+                "href": "/ccn/search-result"
+            },
+            {
+                "text": "xming",
+                "href": "/ccn/xming"
+            },
+            {
+                "text": "putty",
+                "href": "/ccn/putty"
+            },
+            {
+                "text": "Microsoft Outlook",
+                "href": "/ccn/microsoft-outlook"
+            },
+            {
+                "text": "Pine",
+                "href": "/ccn/pine"
+            },
+            {
+                "text": "Mozilla Thunderbird",
+                "href": "/ccn/mozilla-thunderbird"
+            },
+            {
+                "text": "Outlook Express",
+                "href": "/ccn/outlook-express"
+            },
+            {
+                "text": "DHCP",
+                "href": "/ccn/dhcp"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/ssl-vpn"
+            },
+            {
+                "text": "How to use SSL-VPN ?",
+                "href": "/ccn/how-to-use-ssl-vpn"
+            },
+            {
+                "text": "PRECISION AIR CONDITIONING (PAC) SYSTEM",
+                "href": "/ccn/precision-air-conditioning-pac-system"
+            },
+            {
+                "text": "FIRE SAFETY, ACCESS CONTROL, BUILDING MANAGEMENT SYSTEM (BMS) AND OTHER RELATED SYSTEMS",
+                "href": "/ccn/fire-safety-access-control-building-management-system-bms-and-other-related-systems"
+            },
+            {
+                "text": "For Windows Client",
+                "href": "/ccn/for-windows-client"
+            },
+            {
+                "text": "Executive / Advisory Committee Members",
+                "href": "/ccn/executive-advisory-committee-members"
+            },
+            {
+                "text": "What SSL VPN Provides?",
+                "href": "/ccn/what-ssl-vpn-provides"
+            },
+            {
+                "text": "Gtalk",
+                "href": "/ccn/gtalk"
+            },
+            {
+                "text": "Skype",
+                "href": "/ccn/skype"
+            },
+            {
+                "text": "Hosting Home Page",
+                "href": "/ccn/hosting-home-page"
+            },
+            {
+                "text": "Using Putty",
+                "href": "/ccn/using-putty"
+            },
+            {
+                "text": "Using WinSCP",
+                "href": "/ccn/using-winscp"
+            },
+            {
+                "text": "For Linux Client",
+                "href": "/ccn/for-linux-client"
+            },
+            {
+                "text": "For MAC Client",
+                "href": "/ccn/for-mac-client"
+            },
+            {
+                "text": "For Android Client",
+                "href": "/ccn/for-android-client"
+            },
+            {
+                "text": "Wireless Access Points",
+                "href": "#"
+            },
+            {
+                "text": "ACES",
+                "href": "/ccn/aces"
+            },
+            {
+                "text": "ACMS",
+                "href": "/ccn/acms"
+            },
+            {
+                "text": "AE",
+                "href": "/ccn/ae"
+            },
+            {
+                "text": "BSBE",
+                "href": "/ccn/bsbe"
+            },
+            {
+                "text": "CL",
+                "href": "/ccn/cl"
+            },
+            {
+                "text": "ENVIORNMENTAL",
+                "href": "/ccn/enviornmental"
+            },
+            {
+                "text": "HELICOPTER",
+                "href": "/ccn/helicopter"
+            },
+            {
+                "text": "LHC",
+                "href": "/ccn/lhc"
+            },
+            {
+                "text": "LIBRARY",
+                "href": "/ccn/library"
+            },
+            {
+                "text": "ME(NL1)",
+                "href": "/ccn/me-nl1"
+            },
+            {
+                "text": "NEW CL",
+                "href": "/ccn/new-cl"
+            },
+            {
+                "text": "NEW IME",
+                "href": "/ccn/new-ime"
+            },
+            {
+                "text": "NL2",
+                "href": "/ccn/nl2"
+            },
+            {
+                "text": "NUCLEAR",
+                "href": "/ccn/nuclear"
+            },
+            {
+                "text": "NWTF",
+                "href": "/ccn/nwtf"
+            },
+            {
+                "text": "SAMTEL",
+                "href": "/ccn/samtel"
+            },
+            {
+                "text": "SIDBI",
+                "href": "/ccn/sidbi"
+            },
+            {
+                "text": "SL",
+                "href": "/ccn/sl"
+            },
+            {
+                "text": "TUT",
+                "href": "/ccn/tut"
+            },
+            {
+                "text": "VFA",
+                "href": "/ccn/vfa"
+            },
+            {
+                "text": "VH",
+                "href": "/ccn/vh"
+            },
+            {
+                "text": "WL",
+                "href": "/ccn/wl"
+            },
+            {
+                "text": "WLE",
+                "href": "/ccn/wle"
+            },
+            {
+                "text": "WLAN",
+                "href": "/ccn/wlan"
+            },
+            {
+                "text": "Fiber Layout",
+                "href": "/ccn/fiber-layout"
+            },
+            {
+                "text": "Category",
+                "href": "/ccn/category"
+            },
+            {
+                "text": "Closed Tenders",
+                "href": "/ccn/closed-tenders"
+            },
+            {
+                "text": "Latest News",
+                "href": "/ccn/latest-news"
+            },
+            {
+                "text": "Events",
+                "href": "/ccn/events"
+            },
+            {
+                "text": "Academic Staff",
+                "href": "/ccn/academic-staff"
+            },
+            {
+                "text": "REO's",
+                "href": "/ccn/reo-s"
+            },
+            {
+                "text": "Technical Staff",
+                "href": "/ccn/technical-staff"
+            },
+            {
+                "text": "DDIA",
+                "href": "/ccn/ddia"
+            },
+            {
+                "text": "Office",
+                "href": "/ccn/office"
+            },
+            {
+                "text": "accelrys",
+                "href": "/ccn/accelrys"
+            },
+            {
+                "text": "team",
+                "href": "/ccn/22-team"
+            },
+            {
+                "text": "Labs",
+                "href": "/ccn/10-labs"
+            },
+            {
+                "text": "FAQ",
+                "href": "/ccn/11-faq"
+            },
+            {
+                "text": "Other Links",
+                "href": "/ccn/2-uncategorised"
+            },
+            {
+                "text": "Services",
+                "href": "/ccn/12-services"
+            },
+            {
+                "text": "CCCC",
+                "href": "/ccn/16-cccc"
+            },
+            {
+                "text": "Servers",
+                "href": "/ccn/17-servers"
+            },
+            {
+                "text": "Data Centre",
+                "href": "/ccn/18-data-centre"
+            },
+            {
+                "text": "Main Menu",
+                "href": "/ccn/19-main-menu"
+            },
+            {
+                "text": "Microsoft Account FAQ",
+                "href": "/ccn/microsoft-account-faq"
+            },
+            {
+                "text": "Facility Management Services",
+                "href": "/ccn/facility-management-services"
+            },
+            {
+                "text": "Online training session on Microsoft Excel and Word",
+                "href": "/ccn/online-training-session-on-microsoft-excel-and-word"
+            },
+            {
+                "text": "Cyber Security Advisory",
+                "href": "/ccn/cyber-security-advisory"
+            },
+            {
+                "text": "IEEE Learning Network",
+                "href": "/ccn/ieee-learning-network"
+            },
+            {
+                "text": "How to Change Passwords",
+                "href": "/ccn/how-to-change-passwords"
+            },
+            {
+                "text": "Turnitin",
+                "href": "/ccn/turnitin"
+            },
+            {
+                "text": "IDIAC",
+                "href": "/ccn/idiac"
+            },
+            {
+                "text": "List of Software",
+                "href": "/ccn/list-of-software"
+            },
+            {
+                "text": "CC Home",
+                "href": "/ccn/"
+            },
+            {
+                "text": "Policies",
+                "href": "/ccn/policies"
+            },
+            {
+                "text": "Computing Facilities - Unethical Use",
+                "href": "/ccn/policies/computing-facilities-unethical-use"
+            },
+            {
+                "text": "CC Facilities Charges",
+                "href": "/ccn/policies/cc-facilities-charges"
+            },
+            {
+                "text": "CC Accounts Deletion",
+                "href": "/ccn/policies/cc-accounts-deletion"
+            },
+            {
+                "text": "Services",
+                "href": "/ccn/services"
+            },
+            {
+                "text": "Email",
+                "href": "#"
+            },
+            {
+                "text": "Login",
+                "href": "/ccn/services/email/login"
+            },
+            {
+                "text": "Email",
+                "href": "/ccn/services/email/email"
+            },
+            {
+                "text": "Backup & Recovery",
+                "href": "/ccn/services/email/backup-recovery"
+            },
+            {
+                "text": "Voice Chat",
+                "href": "/ccn/services/email/voice-chat"
+            },
+            {
+                "text": "Web",
+                "href": "/ccn/services/web"
+            },
+            {
+                "text": "Login",
+                "href": "/ccn/services/web/login"
+            },
+            {
+                "text": "Space Quota",
+                "href": "/ccn/services/web/space-quota"
+            },
+            {
+                "text": "Hosting Home Page",
+                "href": "/ccn/services/web/hosting-home-page"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/services/web/ssl-vpn"
+            },
+            {
+                "text": "Web Access",
+                "href": "/ccn/services/web/web-access"
+            },
+            {
+                "text": "Network",
+                "href": "/ccn/services/network"
+            },
+            {
+                "text": "SSL-VPN",
+                "href": "/ccn/services/network/how-to-use-ssl-vpn"
+            },
+            {
+                "text": "Direct (No Proxy) Internet",
+                "href": "/ccn/services/network/direct-no-proxy-internet"
+            },
+            {
+                "text": "Network FAQ",
+                "href": "/ccn/services/network/network-faq"
+            },
+            {
+                "text": "Network Diagrams",
+                "href": "/ccn/services/network/network-diagrams"
+            },
+            {
+                "text": "Internet Links at a Glance",
+                "href": "/ccn/services/network/internet-links-at-a-glance"
+            },
+            {
+                "text": "Guest Wi-Fi Access @IITK",
+                "href": "/ccn/services/network/guest-wi-fi-access-iitk"
+            },
+            {
+                "text": "Single Sign-On Wi-Fi",
+                "href": "/ccn/images\\Network\\Wifi_with_single_signon.pdf"
+            },
+            {
+                "text": "eduroam",
+                "href": "/ccn/images\\Network\\eduroam.pdf"
+            },
+            {
+                "text": "Cisco WebEx",
+                "href": "/ccn/services/network/cisco-webex"
+            },
+            {
+                "text": "Purchasing LAN Cord",
+                "href": "/ccn/images\\Network\\Purchasing_LAN_Cord_from_CC.pdf"
+            },
+            {
+                "text": "LAN Port Request Form",
+                "href": "/ccn/images\\Login_Forms\\Internet_port_requistion_form.pdf"
+            },
+            {
+                "text": "WLAN",
+                "href": "/ccn/services/network/wlan"
+            },
+            {
+                "text": "DHCP",
+                "href": "/ccn/services/network/dhcp"
+            },
+            {
+                "text": "Linux Setup",
+                "href": "/ccn/services/network/linux-setup"
+            },
+            {
+                "text": "IP Addresses",
+                "href": "#"
+            },
+            {
+                "text": "Building-wise IP Address",
+                "href": "/ccn/IP_Details/Building_IP_Details.html"
+            },
+            {
+                "text": "Hostel IP Address",
+                "href": "/ccn/IP_Details/Hostel_IP_Address.html"
+            },
+            {
+                "text": "Residence IP Address",
+                "href": "/ccn/IP_Details/Residence_IP_Address.html"
+            },
+            {
+                "text": "Labs",
+                "href": "/ccn/services/labs"
+            },
+            {
+                "text": "Windows Lab",
+                "href": "#"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/services/labs/windows-lab/software"
+            },
+            {
+                "text": "Tips and Trick",
+                "href": "/ccn/services/labs/windows-lab/tips-and-trick"
+            },
+            {
+                "text": "Linux Lab",
+                "href": "#"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/services/labs/linux-software/linux-software"
+            },
+            {
+                "text": "Use Application Remotely",
+                "href": "/ccn/services/labs/linux-software/use-application-remotely"
+            },
+            {
+                "text": "FMS",
+                "href": "/ccn/facility-management-services"
+            },
+            {
+                "text": "HPC",
+                "href": "https://iitk.ac.in/hpc/"
+            },
+            {
+                "text": "Software",
+                "href": "/ccn/softwares"
+            },
+            {
+                "text": "Data Centre",
+                "href": "/ccn/data-centre"
+            },
+            {
+                "text": "FAQ",
+                "href": "#"
+            },
+            {
+                "text": "General FAQ",
+                "href": "/ccn/faq/general-faq"
+            },
+            {
+                "text": "Voice Chat FAQ",
+                "href": "/ccn/faq/voice-chat-faq"
+            },
+            {
+                "text": "Website FAQ",
+                "href": "/ccn/faq/website-faq"
+            },
+            {
+                "text": "Windows FAQ",
+                "href": "/ccn/faq/windows-faq"
+            },
+            {
+                "text": "Linux FAQ",
+                "href": "https://linux.cc.iitk.ac.in/lininfo/Linux_Servers_computing_fac.html"
+            },
+            {
+                "text": "Network FAQ",
+                "href": "/ccn/faq/network-faq"
+            },
+            {
+                "text": "Mail FAQ",
+                "href": "https://linux.cc.iitk.ac.in/lininfo/IITK_mailing_system_informa.html"
+            },
+            {
+                "text": "Mac FAQ",
+                "href": "/ccn/faq/mac-faq"
+            },
+            {
+                "text": "Gallery",
+                "href": "/ccn/gallery"
+            },
+            {
+                "text": "Tenders",
+                "href": "/ccn/tenders"
+            },
+            {
+                "text": "Committees",
+                "href": "#"
+            },
+            {
+                "text": "IDIAC",
+                "href": "/ccn/idiac"
+            },
+            {
+                "text": "Contact Us",
+                "href": "/ccn/contact-iitk"
+            },
+            {
+                "text": "",
+                "href": "/ccn/"
+            },
+            {
+                "text": "Computer Centre, IIT Kanpur",
+                "href": "/ccn/"
+            },
+            {
+                "text": "IITKanpur",
+                "href": "/ccn/"
+            },
+            {
+                "text": "IITK Home",
+                "href": "http://www.iitk.ac.in/"
+            },
+            {
+                "text": "Webmail",
+                "href": "https://webmail.iitk.ac.in/"
+            },
+            {
+                "text": "Library",
+                "href": "https://pkklib.iitk.ac.in/"
+            },
+            {
+                "text": "Telephone Directory",
+                "href": "https://oag.iitk.ac.in/Tel/"
+            },
+            {
+                "text": "Team",
+                "href": "#"
+            },
+            {
+                "text": "Dean",
+                "href": "https://iitk.ac.in/ddia/"
+            },
+            {
+                "text": "Operations",
+                "href": "#"
+            },
+            {
+                "text": "Academic Staff",
+                "href": "https://www.iitk.ac.in/cc/academic-staff"
+            },
+            {
+                "text": "REO's",
+                "href": "https://www.iitk.ac.in/cc/reo-s"
+            },
+            {
+                "text": "Technical Staff",
+                "href": "https://www.iitk.ac.in/cc/technical-staff"
+            },
+            {
+                "text": "Office",
+                "href": "https://www.iitk.ac.in/cc/office"
+            },
+            {
+                "text": "Information",
+                "href": "#"
+            },
+            {
+                "text": "Office 365 subscription at IITK",
+                "href": "http://iitk.ac.in/nt/Office365//Office_365_subscription_at_IITK.htm"
+            },
+            {
+                "text": "MS Teams for faculty and staff",
+                "href": "https://iitk.ac.in/nt/faq/MS_Teams.htm"
+            },
+            {
+                "text": "Turnitin (Intranet Only)",
+                "href": "https://web.iitk.ac.in/ccnew/Turnitin.html"
+            },
+            {
+                "text": "Matlab Campus Wide License at IIT Kanpur",
+                "href": "/ccn/information/matlab-campus-wide-license-at-iit-kanpur"
+            },
+            {
+                "text": "IIT Kanpur’s Matlab Portal",
+                "href": "https://in.mathworks.com/academia/tah-portal/indian-institute-of-technology-kanpur-40765629.html"
+            },
+            {
+                "text": "Cyber Security Advisory",
+                "href": "cyber-security-advisory"
+            },
+            {
+                "text": "Quick Links",
+                "href": "#"
+            },
+            {
+                "text": "Login-Forms",
+                "href": "/ccn/quick-links/login-forms"
+            },
+            {
+                "text": "Change Password",
+                "href": "/ccn/quick-links/change-password"
+            },
+            {
+                "text": "Lost & Found",
+                "href": "https://narad.iitk.ac.in/indexing.php?server=narad.iitk.ac.in&group=IITK.lost-found&magic=181"
+            },
+            {
+                "text": "Seminar / Thesis Defense Announcements",
+                "href": "https://narad.iitk.ac.in/indexing.php?server=narad.iitk.ac.in&group=IITK.seminar&magic=12"
+            },
+            {
+                "text": "Open Source Resource",
+                "href": "http://linux.cc.iitk.ac.in"
+            },
+            {
+                "text": "Linux Documentation Project",
+                "href": "http://www.iitk.ac.in/LDP/"
+            },
+            {
+                "text": "",
+                "href": "#top"
+            },
+            {
+                "text": "IITK Home",
+                "href": "/ccn/../"
+            },
+            {
+                "text": "Library",
+                "href": "https://pkklib.iitk.ac.in/"
+            },
+            {
+                "text": "Office Location",
+                "href": "/ccn/index.php/contact-iitk"
+            },
+            {
+                "text": "",
+                "href": "https://www.facebook.com/iitkanpur"
+            },
+            {
+                "text": "",
+                "href": "https://twitter.com/IITKanpur"
+            },
+            {
+                "text": "",
+                "href": "https://www.linkedin.com/school/indian-institute-of-technology-kanpur/"
+            },
+            {
+                "text": "",
+                "href": "https://www.instagram.com/iit.kanpur/"
+            }
+        ]
+    }
+]
