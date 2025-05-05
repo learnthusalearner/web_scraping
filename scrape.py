@@ -63,7 +63,7 @@ def main():
             print(f"Failed to scrape {url}: {e}")
 
     # Save the collected data into a JSON file
-    with open('raw/network_services.json', 'w', encoding='utf-8') as json_file:
+    with open('network_services.json', 'w', encoding='utf-8') as json_file:
         json.dump(all_data, json_file, ensure_ascii=False, indent=4)
 
     print("Data extraction complete. Saved to network_services.json")
