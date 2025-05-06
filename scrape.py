@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-# List of IITK CCN network service URLs to scrape
 target_urls = [
     "https://iitk.ac.in/ccn/services/network/how-to-use-ssl-vpn",
     "https://iitk.ac.in/ccn/services/network/direct-no-proxy-internet",
@@ -12,7 +11,6 @@ target_urls = [
     "https://iitk.ac.in/ccn/services/network/dhcp",
 ]
 
-# Function to extract structured content from the article body
 def extract_page_data(url):
     response = requests.get(url)
     response.raise_for_status()
@@ -78,27 +76,34 @@ def extract_page_data(url):
 
 #Gpt
 def main():
+    # Ensure that a folder named 'data' exists; create it if it doesn't
     os.makedirs('data', exist_ok=True)  # Make sure output folder exists if not make one
 
+    # Loop through each URL in the list 'target_urls'
     for url in target_urls:
         try:
-            print(f"Scraping: {url}")
+            print(f"Scraping: {url}")  # Inform which URL is being scraped
+
+            # Call a function to extract data from the page at this URL
             page_info = extract_page_data(url)
 
-            # Create a valid filename from the URL path
+            # Generate a safe filename from the last part of the URL
+            # Strip trailing '/', take the last part of the URL, replace '-' with '_', and add .json extension
             filename = url.rstrip('/').split('/')[-1].replace('-', '_') + ".json"
-            path = os.path.join("data", filename)
+            path = os.path.join("data", filename)  # Full path to save the JSON file
 
-            # Save to individual JSON file
+            # Open the file for writing and save the scraped data as JSON
             with open(path, "w", encoding="utf-8") as f:
-                json.dump(page_info, f, ensure_ascii=False, indent=4)
+                json.dump(page_info, f, ensure_ascii=False, indent=4)  # Save with indentation and UTF-8 characters
 
-            print(f"Saved: {path}")
+            print(f"Saved: {path}")  # Confirm the file was saved
 
         except Exception as e:
+            # If something goes wrong while scraping or saving, print an error message
             print(f"Failed to scrape {url}: {e}")
 
-    print("✅ All pages scraped.")
+    print("✅ All pages scraped.")  # Final message after the loop is done
+
 
 if __name__ == '__main__':
     main()
