@@ -1,0 +1,81 @@
+{
+    "url": "https://iitk.ac.in/ccn/services/network/direct-no-proxy-internet",
+    "title": "Direct (No Proxy) Internet",
+    "headings": [
+        {
+            "tag": "h3",
+            "text": "How to use Direct Internet Access (No Proxy)?"
+        }
+    ],
+    "paragraphs": [
+        "You can use either Fortigate or Cisco Ironport Gateway for Direct Internet Access (No Proxy).",
+        "Please get theIP Address marked either for the Fortigate or for the Ironport Gatewayfor your Hostel's Room No. / Residence No. and configure this IP in your machine.",
+        "For getting your residential IP address, visit below links :",
+        "Then, you can follow the either of the procedure for configuring Direct Internet Access (No Proxy):"
+    ],
+    "links": [
+        {
+            "text": "Click Here",
+            "href": "/ccn/images\\Network\\The_procedure_for_connect_fortinet_noproxy.pdf"
+        },
+        {
+            "text": "Click Here",
+            "href": "/ccn/images\\Network\\The_procedure_for_connecting_to_ironport_noproxy.pdf"
+        },
+        {
+            "text": "Hostel's Room No IP Address.",
+            "href": "/ccn/IP_Details/Hostel_IP_Address.html"
+        },
+        {
+            "text": "Residence House No. IP Address.",
+            "href": "/ccn/IP_Details/Residence_IP_Address.html"
+        },
+        {
+            "text": "No Proxy Using Fortinet",
+            "href": "/ccn/images\\Network\\The_procedure_for_connect_fortinet_noproxy.pdf"
+        },
+        {
+            "text": "No Proxy Using Cisco Ironport",
+            "href": "/ccn/images\\Network\\The_procedure_for_connecting_to_ironport_noproxy.pdf"
+        }
+    ],
+    "tables": [
+        [
+            [
+                {
+                    "text": "Setting Direct Internet Access on your machine"
+                }
+            ],
+            [
+                {
+                    "text": "In CC Labs"
+                },
+                {
+                    "text": "Click Here",
+                    "link": "/ccn/images\\Network\\The_procedure_for_connect_fortinet_noproxy.pdf",
+                    "link_text": "Click Here"
+                }
+            ],
+            [
+                {
+                    "text": "In Academic Area"
+                },
+                {
+                    "text": "Click Here",
+                    "link": "/ccn/images\\Network\\The_procedure_for_connecting_to_ironport_noproxy.pdf",
+                    "link_text": "Click Here"
+                }
+            ],
+            [
+                {
+                    "text": "In Hostels or Residential Buildings"
+                },
+                {
+                    "text": "You can use either Fortigate or Cisco Ironport Gateway for Direct Internet Access (No Proxy).Please get theIP Address marked either for the Fortigate or for the Ironport Gatewayfor your Hostel's Room No. / Residence No. and configure this IP in your machine.For getting your residential IP address, visit below links :Hostel's Room No IP Address.Residence House No. IP Address.Then, you can follow the either of the procedure for configuring Direct Internet Access (No Proxy):No Proxy Using FortinetNo Proxy Using Cisco Ironport",
+                    "link": "/ccn/IP_Details/Hostel_IP_Address.html",
+                    "link_text": "Hostel's Room No IP Address."
+                }
+            ]
+        ]
+    ]
+}

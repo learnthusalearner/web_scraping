@@ -1,0 +1,92 @@
+{
+    "url": "https://iitk.ac.in/ccn/services/network/how-to-use-ssl-vpn",
+    "title": "SSL-VPN",
+    "headings": [
+        {
+            "tag": "h6",
+            "text": "Connect to IITK through VPN Tunnel on different clients"
+        }
+    ],
+    "paragraphs": [],
+    "links": [
+        {
+            "text": "Click Here",
+            "href": "https://www.fortinet.com/support/product-downloads"
+        },
+        {
+            "text": "Click Here",
+            "href": "/ccn/index.php/for-windows-client"
+        },
+        {
+            "text": "Click Here",
+            "href": "/ccn/index.php/for-linux-client"
+        },
+        {
+            "text": "Click Here",
+            "href": "/ccn/index.php/for-mac-client"
+        },
+        {
+            "text": "Click Here",
+            "href": "/ccn/index.php/for-android-client"
+        }
+    ],
+    "tables": [
+        [
+            [
+                {
+                    "text": "For Latest VPN Client for all platforms, Visit Fortinet Link and select \"FortiClient VPN only\".Then, you may follow respective platform guides mentioned below to proceed accordingly"
+                },
+                {
+                    "text": "Click Here",
+                    "link": "https://www.fortinet.com/support/product-downloads",
+                    "link_text": "Click Here"
+                }
+            ],
+            [
+                {
+                    "text": ""
+                }
+            ],
+            [
+                {
+                    "text": "VPN Client for Windows Platform"
+                },
+                {
+                    "text": "Click Here",
+                    "link": "/ccn/index.php/for-windows-client",
+                    "link_text": "Click Here"
+                }
+            ],
+            [
+                {
+                    "text": "VPN Client for LINUX Platform"
+                },
+                {
+                    "text": "Click Here",
+                    "link": "/ccn/index.php/for-linux-client",
+                    "link_text": "Click Here"
+                }
+            ],
+            [
+                {
+                    "text": "VPN Client for MAC Platform"
+                },
+                {
+                    "text": "Click Here",
+                    "link": "/ccn/index.php/for-mac-client",
+                    "link_text": "Click Here"
+                }
+            ],
+            [
+                {
+                    "text": "VPN Client for Android Platform"
+                },
+                {
+                    "text": "Click Here",
+                    "link": "/ccn/index.php/for-android-client",
+                    "link_text": "Click Here"
+                }
+            ]
+        ]
+    ]
+}

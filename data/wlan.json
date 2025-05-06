@@ -1,0 +1,515 @@
+{
+    "url": "https://iitk.ac.in/ccn/services/network/wlan",
+    "title": "WLAN",
+    "headings": [
+        {
+            "tag": "h5",
+            "text": "WLAN Coverage Area:"
+        },
+        {
+            "tag": "h5",
+            "text": "Wireless Access Point Location:"
+        },
+        {
+            "tag": "h5",
+            "text": "Wi-Fi Access Point Installation Details:"
+        },
+        {
+            "tag": "h6",
+            "text": "WiFi Access Point Installation Details"
+        },
+        {
+            "tag": "h5",
+            "text": "Setting for Open WLAN:"
+        },
+        {
+            "tag": "h5",
+            "text": "Setting for Secured WLAN:"
+        }
+    ],
+    "paragraphs": [
+        "Computer Centre has installed WLAN on 802.11b/g to allow accessing IITK computing resources (Local network and Internet) through the Wireless communication. WLAN employs mobile network access through the Wireless Access Points. Only authorized users can access the IITK network as well as Internet Services.",
+        "Computer Centre has started running aDHCP serverfor academic area network. Now you need not set a specific IP address for your machine, and configure it to get the IP address automatically.",
+        "(DHCP will also set other parameters like gateway, subnet mask, etc. automatically.)",
+        "Only IITK users authorized to access IITK Network from any place in campus (where the Access Points are installed) using various commercial Wireless Cards (i.e. Cisco, Orinoco, D-Link, Linksys etc.).",
+        "In IITK, WLAN is used to provide reliable and proper network connectivity to mobile on-campus users. They can access all servers and applications which they can access from wired structure.",
+        "Computer Centre, CSE Building, Northern Lab -1, Northern Lab -2, Southern Lab, Core Lab, Visitors Hostel, ACES Building, Western LAB, Western Lab Ext., Aerospace, Lecture Hall Complex, BSBE, Samtel, Auditorium, Wireless Access Point Location",
+        "(Pictorial Representation):",
+        "In each building we have placed the access point in a place which we felt would be most convenient for mobile users. As of now, we have more than 100 access points in various locations.",
+        "If there is any location in any academic building where there are a couple of people using laptops and other WiFi enabled devices, and the signal from the current access point is weak, then CC would be happy to place another access point in that location. Please report such cases to Mr. Navpreet Singh(This email address is being protected from spambots. You need JavaScript enabled to view it.). We are giving the details of locations where we have put WiFi access point.",
+        "http://www.iitk.ac.in/cc/connecting_to_secure_wireless.pdf",
+        "We advise that for all desktops you continue to configure it with static or permanent IP address, and use dynamic or automatic IP addresses for your mobile devices like laptops.",
+        "Having a static IP address helps in diagnosing problems related to networks, and if the configuration is to be done only once in its lifetime, then that effort is worth the benefits. But if the computer is to be moved around, then configuring it every time in a different location is tedious, and only in such situations, dynamic IP address should be used. Your static IP addresses will continue to be allotted through the department CC coordinator."
+    ],
+    "links": [
+        {
+            "text": "ACES",
+            "href": "/ccn/index.php/aces"
+        },
+        {
+            "text": "ACMS",
+            "href": "/ccn/index.php/acms"
+        },
+        {
+            "text": "AE",
+            "href": "/ccn/index.php/ae"
+        },
+        {
+            "text": "BSBE",
+            "href": "/ccn/index.php/bsbe"
+        },
+        {
+            "text": "CL",
+            "href": "/ccn/index.php/cl"
+        },
+        {
+            "text": "ENVIORNMENTAL",
+            "href": "/ccn/index.php/enviornmental"
+        },
+        {
+            "text": "HELICOPTER",
+            "href": "/ccn/index.php/helicopter"
+        },
+        {
+            "text": "LHC",
+            "href": "/ccn/index.php/lhc"
+        },
+        {
+            "text": "LIBRARY",
+            "href": "/ccn/index.php/library"
+        },
+        {
+            "text": "ME(NL1)",
+            "href": "/ccn/index.php/me-nl1"
+        },
+        {
+            "text": "NEW CL",
+            "href": "/ccn/index.php/new-cl"
+        },
+        {
+            "text": "NEW IME",
+            "href": "/ccn/index.php/new-ime"
+        },
+        {
+            "text": "NL2",
+            "href": "/ccn/index.php/nl2"
+        },
+        {
+            "text": "NUCLEAR",
+            "href": "/ccn/index.php/nuclear"
+        },
+        {
+            "text": "NWTF",
+            "href": "/ccn/index.php/nwtf"
+        },
+        {
+            "text": "SAMTEL",
+            "href": "/ccn/index.php/samtel"
+        },
+        {
+            "text": "SIDBI",
+            "href": "/ccn/index.php/sidbi"
+        },
+        {
+            "text": "SL",
+            "href": "/ccn/index.php/sl"
+        },
+        {
+            "text": "TUT",
+            "href": "/ccn/index.php/tut"
+        },
+        {
+            "text": "VFA",
+            "href": "/ccn/index.php/vfa"
+        },
+        {
+            "text": "VH",
+            "href": "/ccn/index.php/vh"
+        },
+        {
+            "text": "WL",
+            "href": "/ccn/index.php/wl"
+        },
+        {
+            "text": "WLE",
+            "href": "/ccn/index.php/wle"
+        },
+        {
+            "text": "(This email address is being protected from spambots. You need JavaScript enabled to view it.)",
+            "href": "/ccn/\n <script type='text/javascript'>\n <!--\n var prefix = 'ma' + 'il' + 'to';\n var path = 'hr' + 'ef' + '=';\n var addy16556 = 'navi' + '@';\n addy16556 = addy16556 + 'iitk' + '.' + 'ac' + '.' + 'in';\n document.write('<a ' + path + '\\'' + prefix + ':' + addy16556 + '\\'>');\n document.write(addy16556);\n document.write('<\\/a>');\n //-->\\n </script><script type='text/javascript'>\n <!--\n document.write('<span style=\\'display: none;\\'>');\n //-->\n </script>This email address is being protected from spambots. You need JavaScript enabled to view it.\n <script type='text/javascript'>\n <!--\n document.write('</');\n document.write('span>');\n //-->\n </script>"
+        },
+        {
+            "text": "http://www.iitk.ac.in/cc/connecting_to_secure_wireless.pdf",
+            "href": "/ccn/images\\Wireless_Access_Point\\connecting_to_secure_wireless.pdf"
+        }
+    ],
+    "tables": [
+        [
+            [
+                {
+                    "text": "Buildings Name"
+                }
+            ],
+            [
+                {
+                    "text": "Click on below buildings to get pictorial view..."
+                }
+            ],
+            [
+                {
+                    "text": "ACES",
+                    "link": "/ccn/index.php/aces",
+                    "link_text": "ACES"
+                },
+                {
+                    "text": "ACMS",
+                    "link": "/ccn/index.php/acms",
+                    "link_text": "ACMS"
+                },
+                {
+                    "text": "AE",
+                    "link": "/ccn/index.php/ae",
+                    "link_text": "AE"
+                },
+                {
+                    "text": "BSBE",
+                    "link": "/ccn/index.php/bsbe",
+                    "link_text": "BSBE"
+                }
+            ],
+            [
+                {
+                    "text": "CL",
+                    "link": "/ccn/index.php/cl",
+                    "link_text": "CL"
+                },
+                {
+                    "text": "ENVIORNMENTAL",
+                    "link": "/ccn/index.php/enviornmental",
+                    "link_text": "ENVIORNMENTAL"
+                },
+                {
+                    "text": "HELICOPTER",
+                    "link": "/ccn/index.php/helicopter",
+                    "link_text": "HELICOPTER"
+                },
+                {
+                    "text": "LHC",
+                    "link": "/ccn/index.php/lhc",
+                    "link_text": "LHC"
+                }
+            ],
+            [
+                {
+                    "text": "LIBRARY",
+                    "link": "/ccn/index.php/library",
+                    "link_text": "LIBRARY"
+                },
+                {
+                    "text": "ME(NL1)",
+                    "link": "/ccn/index.php/me-nl1",
+                    "link_text": "ME(NL1)"
+                },
+                {
+                    "text": "NEW CL",
+                    "link": "/ccn/index.php/new-cl",
+                    "link_text": "NEW CL"
+                },
+                {
+                    "text": "NEW IME",
+                    "link": "/ccn/index.php/new-ime",
+                    "link_text": "NEW IME"
+                }
+            ],
+            [
+                {
+                    "text": "NL2",
+                    "link": "/ccn/index.php/nl2",
+                    "link_text": "NL2"
+                },
+                {
+                    "text": "NUCLEAR",
+                    "link": "/ccn/index.php/nuclear",
+                    "link_text": "NUCLEAR"
+                },
+                {
+                    "text": "NWTF",
+                    "link": "/ccn/index.php/nwtf",
+                    "link_text": "NWTF"
+                },
+                {
+                    "text": "SAMTEL",
+                    "link": "/ccn/index.php/samtel",
+                    "link_text": "SAMTEL"
+                }
+            ],
+            [
+                {
+                    "text": "SIDBI",
+                    "link": "/ccn/index.php/sidbi",
+                    "link_text": "SIDBI"
+                },
+                {
+                    "text": "SL",
+                    "link": "/ccn/index.php/sl",
+                    "link_text": "SL"
+                },
+                {
+                    "text": "TUT",
+                    "link": "/ccn/index.php/tut",
+                    "link_text": "TUT"
+                },
+                {
+                    "text": "VFA",
+                    "link": "/ccn/index.php/vfa",
+                    "link_text": "VFA"
+                }
+            ],
+            [
+                {
+                    "text": "VH",
+                    "link": "/ccn/index.php/vh",
+                    "link_text": "VH"
+                },
+                {
+                    "text": "WL",
+                    "link": "/ccn/index.php/wl",
+                    "link_text": "WL"
+                },
+                {
+                    "text": "WLE",
+                    "link": "/ccn/index.php/wle",
+                    "link_text": "WLE"
+                },
+                {
+                    "text": ""
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "text": "Buildings"
+                },
+                {
+                    "text": "No. of Access Point"
+                },
+                {
+                    "text": "Location of Access Point (Room No.)"
+                }
+            ],
+            [
+                {
+                    "text": "Computer Centre"
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "105, 113, 116A ,Upside_cc"
+                }
+            ],
+            [
+                {
+                    "text": "CSE Building"
+                },
+                {
+                    "text": "12"
+                },
+                {
+                    "text": ""
+                }
+            ],
+            [
+                {
+                    "text": "Director Home"
+                },
+                {
+                    "text": "1"
+                },
+                {
+                    "text": ""
+                }
+            ],
+            [
+                {
+                    "text": "Faculty Building"
+                },
+                {
+                    "text": "18"
+                },
+                {
+                    "text": "Director Office, DD Office, Registrar Office, DOFA, DOAA, DOSA.FB 3rd Floor Room :  306, 320, 334,  351, 368, 378, 384.FB 4th Floor Room :  409, 438, 455,  476, 484.FB 5th Floor Room :  520, 555.FB 6th Floor Room :  620, 655."
+                }
+            ],
+            [
+                {
+                    "text": "Lecture Hall Complex"
+                },
+                {
+                    "text": "16"
+                },
+                {
+                    "text": "L 7 Switch Room, LHC TC, L1, L2, L3, L4, L5, L6, L8, L9,L10,L11,L12,L13,L14,L15"
+                }
+            ],
+            [
+                {
+                    "text": "Visitors Hostel"
+                },
+                {
+                    "text": "10"
+                },
+                {
+                    "text": "VH Office, Back Side D-6, Back Side S-40, Back Side S-23, Pioneer Batch, VH Hall, Dir_Home, VH_Store(back side), VH_Dining_H-all."
+                }
+            ],
+            [
+                {
+                    "text": "Auditorium"
+                },
+                {
+                    "text": "3"
+                },
+                {
+                    "text": "Audi Hall"
+                }
+            ],
+            [
+                {
+                    "text": "ACES Building"
+                },
+                {
+                    "text": "7"
+                },
+                {
+                    "text": "105, 107,114, 218, 225, 305, 323"
+                }
+            ],
+            [
+                {
+                    "text": "Aerospace"
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "AE-02, AE Kamble, AE Low Speed, AE"
+                }
+            ],
+            [
+                {
+                    "text": "BSBE"
+                },
+                {
+                    "text": "3"
+                },
+                {
+                    "text": "BSBE,BSBE_Lab2,BSBE_Lab14"
+                }
+            ],
+            [
+                {
+                    "text": "Core Lab"
+                },
+                {
+                    "text": "3"
+                },
+                {
+                    "text": "203 A, 205 A,208B"
+                }
+            ],
+            [
+                {
+                    "text": "Western LAB"
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "116, 124, Lab, 201"
+                }
+            ],
+            [
+                {
+                    "text": "Western Lab Ext."
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "112, 304, WLE Varun, WLE Structure"
+                }
+            ],
+            [
+                {
+                    "text": "Northern Lab -1"
+                },
+                {
+                    "text": "6"
+                },
+                {
+                    "text": "NL I, NL I, NL I, NL I ,NLI_IME, NLI_115"
+                }
+            ],
+            [
+                {
+                    "text": "Northern Lab -2"
+                },
+                {
+                    "text": "3"
+                },
+                {
+                    "text": "NL II, NL II, NLII_301"
+                }
+            ],
+            [
+                {
+                    "text": "Southern Lab"
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "204, 208 B, 216"
+                }
+            ],
+            [
+                {
+                    "text": "SAMTEL Building"
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "SAMTEL,SAMTEL_105"
+                }
+            ],
+            [
+                {
+                    "text": "HOSTEL"
+                },
+                {
+                    "text": "9"
+                },
+                {
+                    "text": "Hall1_Office, Hall2_Office, Hall3_Office, Hall4_O-ffice, Hall5_Office, Hall6_Office, Hall7_office, Hall8_Office, GH_Office."
+                },
+                {
+                    "text": ""
+                }
+            ],
+            [
+                {
+                    "text": "STAFF CANTEEN"
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "Canteen,Work Shop"
+                }
+            ]
+        ]
+    ]
+}

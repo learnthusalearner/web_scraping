@@ -1,0 +1,13 @@
+{
+    "url": "https://iitk.ac.in/ccn/services/network/dhcp",
+    "title": "DHCP",
+    "headings": [],
+    "paragraphs": [
+        "Computer Centre has started running a DHCP server for academic area network. Now you need not set a specific IP address for your machine, and configure it to get the IP address automatically.",
+        "(DHCP will also set other parameters like gateway, subnet mask, etc. automatically.)",
+        "DHCP stands forDynamic Host Configuration Protocol.DHCP's purpose is to enable individual computers on an IP network to extract their configurations from a server (the 'DHCP server') or servers.",
+        "We advise that for all desktops you continue to configure it with static or permanent IP address, and use dynamic or automatic IP addresses for your mobile devices like laptops. Having a static IP address helps in diagnosing problems related to networks, and if the configuration is to be done only once in its lifetime, then that effort is worth the benefits. But if the computer is to be moved around, then configuring it every time in a different location is tedious, and only in such situations, dynamic IP address should be used. Your static IP addresses will continue to be allotted through the department CC coordinator."
+    ],
+    "links": [],
+    "tables": []
+}

@@ -1,0 +1,21 @@
+{
+    "url": "https://iitk.ac.in/ccn/services/network/cisco-webex",
+    "title": "Cisco WebEx",
+    "headings": [],
+    "paragraphs": [
+        "The centre provides continuous help and support for the CISCO WebEx issues to the students, faculty and the staff; so that their research and academic activities will remain unaffected.",
+        "The WebEx meeting can be joined from desktop/ laptop (Windows/Mac) and Mobile.",
+        "Below are the procedures followed for using Cisco WebEx in IITK Environment:"
+    ],
+    "links": [
+        {
+            "text": "How to join Cisco WebEx Meeting",
+            "href": "/ccn/images\\Network\\How_to_Join_Cisco_WebEx_Meeting.pdf"
+        },
+        {
+            "text": "How to start Cisco WebEx Meeting",
+            "href": "/ccn/images\\Network\\How_to_Start_Cisco_Webex_Meeting.pdf"
+        }
+    ],
+    "tables": []
+}
